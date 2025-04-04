@@ -1,0 +1,1001 @@
+Name,Preparation Method,Preparation Time (Minutes),Country,Category,Ingredients,Rating,Ingredient Count,Cost Price (EGP),Selling Price (EGP)
+Hamburger 119,"Grill beef patty, add toppings and sandwich in bun.",74,Italy,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.6,5,45,50
+Paella 232,"Cook rice with saffron, seafood, and vegetables.",30,India,Snack,"Rice, Saffron, Seafood, Bell Peppers",5.0,4,68,60
+Paella 341,"Cook rice with saffron, seafood, and vegetables.",50,China,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.6,4,26,76
+Curry 666,Simmer protein or vegetables in spiced sauce.,131,USA,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.1,4,55,186
+Falafel 794,Blend chickpeas and fry into balls.,127,USA,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.8,4,52,62
+Curry 714,Simmer protein or vegetables in spiced sauce.,168,Italy,Appetizer,"Chicken, Coconut Milk, Spices, Onions",3.0,4,30,121
+Pasta 341,Cook pasta with sauce and mix ingredients.,16,Middle East,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,31,84
+Falafel 421,Blend chickpeas and fry into balls.,154,USA,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.7,4,35,63
+Falafel 971,Blend chickpeas and fry into balls.,31,China,Main Course,"Chickpeas, Garlic, Parsley, Spices",4.7,4,46,80
+Paella 741,"Cook rice with saffron, seafood, and vegetables.",163,Spain,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.3,4,55,97
+Taco 255,"Fill tortilla with protein, veggies, and sauce.",160,Japan,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,63,46
+Hamburger 93,"Grill beef patty, add toppings and sandwich in bun.",108,Mexico,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.7,5,73,50
+Curry 356,Simmer protein or vegetables in spiced sauce.,72,Spain,Soup,"Chicken, Coconut Milk, Spices, Onions",3.5,4,46,44
+Croissant 102,"Prepare layered dough with butter, shape, and bake.",51,Spain,Breakfast,"Flour, Butter, Milk, Yeast",3.2,4,41,82
+Baklava 535,Layer phyllo dough with nuts and syrup.,20,Turkey,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.1,4,31,94
+Pasta 739,Cook pasta with sauce and mix ingredients.,20,Japan,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.8,4,32,138
+Falafel 169,Blend chickpeas and fry into balls.,56,Italy,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.5,4,71,76
+Baklava 935,Layer phyllo dough with nuts and syrup.,32,Middle East,Breakfast,"Phyllo Dough, Honey, Nuts, Cinnamon",4.0,4,38,79
+Taco 299,"Fill tortilla with protein, veggies, and sauce.",100,Thailand,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.9,5,32,98
+Croissant 85,"Prepare layered dough with butter, shape, and bake.",25,Spain,Dessert,"Flour, Butter, Milk, Yeast",4.6,4,78,80
+Pancake 201,"Mix batter, cook on griddle, and serve with syrup.",119,Italy,Main Course,"Flour, Eggs, Milk, Syrup",3.8,4,50,119
+Croissant 384,"Prepare layered dough with butter, shape, and bake.",123,France,Main Course,"Flour, Butter, Milk, Yeast",5.0,4,60,150
+Pasta 744,Cook pasta with sauce and mix ingredients.,30,France,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.3,4,36,72
+Hamburger 79,"Grill beef patty, add toppings and sandwich in bun.",72,Mexico,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,119,50
+Paella 102,"Cook rice with saffron, seafood, and vegetables.",82,France,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.9,4,41,89
+Croissant 230,"Prepare layered dough with butter, shape, and bake.",34,India,Main Course,"Flour, Butter, Milk, Yeast",3.1,4,63,76
+Baklava 998,Layer phyllo dough with nuts and syrup.,146,Japan,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",3.6,4,115,192
+Pancake 741,"Mix batter, cook on griddle, and serve with syrup.",85,France,Breakfast,"Flour, Eggs, Milk, Syrup",4.4,4,36,87
+Curry 629,Simmer protein or vegetables in spiced sauce.,29,Italy,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.3,4,32,108
+Hamburger 969,"Grill beef patty, add toppings and sandwich in bun.",13,India,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.4,5,65,50
+Paella 1000,"Cook rice with saffron, seafood, and vegetables.",129,China,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.4,4,50,66
+Curry 825,Simmer protein or vegetables in spiced sauce.,45,Japan,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.6,4,62,57
+Croissant 751,"Prepare layered dough with butter, shape, and bake.",84,Mexico,Main Course,"Flour, Butter, Milk, Yeast",4.8,4,64,127
+Hamburger 85,"Grill beef patty, add toppings and sandwich in bun.",139,China,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,64,50
+Taco 567,"Fill tortilla with protein, veggies, and sauce.",141,Italy,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,51,120
+Baklava 454,Layer phyllo dough with nuts and syrup.,20,Spain,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",4.6,4,49,89
+Paella 954,"Cook rice with saffron, seafood, and vegetables.",42,China,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.0,4,43,68
+Pancake 763,"Mix batter, cook on griddle, and serve with syrup.",138,France,Dessert,"Flour, Eggs, Milk, Syrup",3.5,4,120,189
+Falafel 779,Blend chickpeas and fry into balls.,88,Turkey,Soup,"Chickpeas, Garlic, Parsley, Spices",4.5,4,30,46
+Taco 486,"Fill tortilla with protein, veggies, and sauce.",127,Spain,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,118,110
+Falafel 974,Blend chickpeas and fry into balls.,177,India,Appetizer,"Chickpeas, Garlic, Parsley, Spices",4.0,4,66,61
+Falafel 422,Blend chickpeas and fry into balls.,168,Mexico,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.6,4,43,87
+Paella 519,"Cook rice with saffron, seafood, and vegetables.",46,Spain,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.9,4,57,89
+Paella 954,"Cook rice with saffron, seafood, and vegetables.",102,Mexico,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.3,4,22,68
+Pancake 60,"Mix batter, cook on griddle, and serve with syrup.",31,China,Snack,"Flour, Eggs, Milk, Syrup",4.9,4,38,53
+Croissant 146,"Prepare layered dough with butter, shape, and bake.",75,Mexico,Main Course,"Flour, Butter, Milk, Yeast",3.4,4,32,56
+Croissant 149,"Prepare layered dough with butter, shape, and bake.",146,USA,Soup,"Flour, Butter, Milk, Yeast",3.3,4,25,67
+Pancake 378,"Mix batter, cook on griddle, and serve with syrup.",68,Mexico,Soup,"Flour, Eggs, Milk, Syrup",3.5,4,44,72
+Croissant 544,"Prepare layered dough with butter, shape, and bake.",23,Thailand,Main Course,"Flour, Butter, Milk, Yeast",3.4,4,71,43
+Paella 542,"Cook rice with saffron, seafood, and vegetables.",79,Turkey,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.4,4,42,66
+Paella 499,"Cook rice with saffron, seafood, and vegetables.",66,USA,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,38,65
+Croissant 317,"Prepare layered dough with butter, shape, and bake.",16,Italy,Breakfast,"Flour, Butter, Milk, Yeast",4.7,4,35,60
+Paella 670,"Cook rice with saffron, seafood, and vegetables.",17,Mexico,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.2,4,45,52
+Paella 54,"Cook rice with saffron, seafood, and vegetables.",27,Thailand,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.1,4,59,50
+Pasta 471,Cook pasta with sauce and mix ingredients.,174,Middle East,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.6,4,74,185
+Pancake 40,"Mix batter, cook on griddle, and serve with syrup.",113,France,Soup,"Flour, Eggs, Milk, Syrup",3.3,4,42,73
+Paella 451,"Cook rice with saffron, seafood, and vegetables.",136,Thailand,Dessert,"Rice, Saffron, Seafood, Bell Peppers",5.0,4,116,135
+Curry 336,Simmer protein or vegetables in spiced sauce.,16,Japan,Main Course,"Chicken, Coconut Milk, Spices, Onions",3.1,4,59,89
+Paella 606,"Cook rice with saffron, seafood, and vegetables.",180,Spain,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",3.8,4,21,78
+Paella 892,"Cook rice with saffron, seafood, and vegetables.",61,China,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.7,4,49,96
+Pancake 574,"Mix batter, cook on griddle, and serve with syrup.",43,Italy,Dessert,"Flour, Eggs, Milk, Syrup",4.5,4,119,130
+Falafel 74,Blend chickpeas and fry into balls.,143,Italy,Appetizer,"Chickpeas, Garlic, Parsley, Spices",4.0,4,76,93
+Falafel 717,Blend chickpeas and fry into balls.,46,Middle East,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.6,4,49,97
+Hamburger 477,"Grill beef patty, add toppings and sandwich in bun.",117,France,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.1,5,72,50
+Pancake 377,"Mix batter, cook on griddle, and serve with syrup.",23,Middle East,Main Course,"Flour, Eggs, Milk, Syrup",3.7,4,55,115
+Falafel 452,Blend chickpeas and fry into balls.,164,India,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.6,4,32,61
+Curry 918,Simmer protein or vegetables in spiced sauce.,158,Italy,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.2,4,59,50
+Hamburger 202,"Grill beef patty, add toppings and sandwich in bun.",173,India,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.4,5,38,50
+Hamburger 413,"Grill beef patty, add toppings and sandwich in bun.",93,Thailand,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.2,5,62,50
+Pancake 515,"Mix batter, cook on griddle, and serve with syrup.",99,Middle East,Soup,"Flour, Eggs, Milk, Syrup",3.0,4,31,53
+Pancake 838,"Mix batter, cook on griddle, and serve with syrup.",92,Turkey,Soup,"Flour, Eggs, Milk, Syrup",4.3,4,38,51
+Paella 908,"Cook rice with saffron, seafood, and vegetables.",44,USA,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.1,4,37,93
+Pasta 951,Cook pasta with sauce and mix ingredients.,51,Thailand,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.6,4,79,44
+Hamburger 329,"Grill beef patty, add toppings and sandwich in bun.",92,USA,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",5.0,5,43,50
+Pasta 891,Cook pasta with sauce and mix ingredients.,14,China,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.7,4,27,139
+Falafel 805,Blend chickpeas and fry into balls.,46,China,Snack,"Chickpeas, Garlic, Parsley, Spices",3.5,4,68,87
+Hamburger 782,"Grill beef patty, add toppings and sandwich in bun.",12,Japan,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.8,5,50,50
+Croissant 200,"Prepare layered dough with butter, shape, and bake.",128,Italy,Dessert,"Flour, Butter, Milk, Yeast",4.6,4,97,180
+Curry 40,Simmer protein or vegetables in spiced sauce.,66,Mexico,Main Course,"Chicken, Coconut Milk, Spices, Onions",4.4,4,58,83
+Croissant 990,"Prepare layered dough with butter, shape, and bake.",38,Italy,Breakfast,"Flour, Butter, Milk, Yeast",3.4,4,42,56
+Baklava 404,Layer phyllo dough with nuts and syrup.,152,Turkey,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",3.0,4,84,171
+Falafel 510,Blend chickpeas and fry into balls.,87,Japan,Soup,"Chickpeas, Garlic, Parsley, Spices",4.1,4,31,40
+Falafel 602,Blend chickpeas and fry into balls.,28,France,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.9,4,48,97
+Paella 239,"Cook rice with saffron, seafood, and vegetables.",68,Thailand,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,55,169
+Falafel 794,Blend chickpeas and fry into balls.,180,Thailand,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.1,4,67,141
+Baklava 753,Layer phyllo dough with nuts and syrup.,165,India,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.1,4,62,40
+Baklava 43,Layer phyllo dough with nuts and syrup.,77,Spain,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",4.9,4,59,150
+Pancake 254,"Mix batter, cook on griddle, and serve with syrup.",44,Thailand,Breakfast,"Flour, Eggs, Milk, Syrup",3.6,4,36,73
+Hamburger 499,"Grill beef patty, add toppings and sandwich in bun.",179,Thailand,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.8,5,66,50
+Croissant 359,"Prepare layered dough with butter, shape, and bake.",15,China,Soup,"Flour, Butter, Milk, Yeast",4.1,4,40,58
+Hamburger 145,"Grill beef patty, add toppings and sandwich in bun.",175,Spain,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.8,5,40,50
+Taco 994,"Fill tortilla with protein, veggies, and sauce.",25,Italy,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,24,51
+Pasta 827,Cook pasta with sauce and mix ingredients.,98,Middle East,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.5,4,38,93
+Falafel 94,Blend chickpeas and fry into balls.,173,China,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.9,4,108,188
+Hamburger 286,"Grill beef patty, add toppings and sandwich in bun.",46,Thailand,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,85,50
+Falafel 181,Blend chickpeas and fry into balls.,21,Spain,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.1,4,38,92
+Pancake 773,"Mix batter, cook on griddle, and serve with syrup.",107,Japan,Appetizer,"Flour, Eggs, Milk, Syrup",4.9,4,49,147
+Taco 301,"Fill tortilla with protein, veggies, and sauce.",14,India,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,38,40
+Croissant 853,"Prepare layered dough with butter, shape, and bake.",32,Turkey,Snack,"Flour, Butter, Milk, Yeast",3.1,4,58,62
+Paella 286,"Cook rice with saffron, seafood, and vegetables.",86,Mexico,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.7,4,49,75
+Baklava 593,Layer phyllo dough with nuts and syrup.,24,Thailand,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",4.9,4,34,50
+Curry 609,Simmer protein or vegetables in spiced sauce.,62,Mexico,Snack,"Chicken, Coconut Milk, Spices, Onions",4.1,4,55,57
+Curry 743,Simmer protein or vegetables in spiced sauce.,25,Japan,Snack,"Chicken, Coconut Milk, Spices, Onions",4.2,4,60,70
+Baklava 446,Layer phyllo dough with nuts and syrup.,150,Thailand,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.2,4,40,70
+Paella 272,"Cook rice with saffron, seafood, and vegetables.",179,Italy,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",3.6,4,72,125
+Pancake 643,"Mix batter, cook on griddle, and serve with syrup.",118,France,Breakfast,"Flour, Eggs, Milk, Syrup",3.2,4,26,86
+Paella 321,"Cook rice with saffron, seafood, and vegetables.",113,Japan,Dessert,"Rice, Saffron, Seafood, Bell Peppers",3.4,4,54,102
+Paella 70,"Cook rice with saffron, seafood, and vegetables.",49,USA,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.9,4,20,62
+Falafel 999,Blend chickpeas and fry into balls.,177,Spain,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.8,4,39,45
+Paella 205,"Cook rice with saffron, seafood, and vegetables.",38,China,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.7,4,31,73
+Pancake 242,"Mix batter, cook on griddle, and serve with syrup.",177,Japan,Soup,"Flour, Eggs, Milk, Syrup",3.7,4,45,42
+Curry 841,Simmer protein or vegetables in spiced sauce.,53,Italy,Appetizer,"Chicken, Coconut Milk, Spices, Onions",5.0,4,34,140
+Curry 783,Simmer protein or vegetables in spiced sauce.,97,China,Soup,"Chicken, Coconut Milk, Spices, Onions",3.4,4,27,50
+Baklava 168,Layer phyllo dough with nuts and syrup.,67,Turkey,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",3.6,4,41,60
+Paella 32,"Cook rice with saffron, seafood, and vegetables.",29,Thailand,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.2,4,46,53
+Pasta 316,Cook pasta with sauce and mix ingredients.,112,India,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.5,4,79,144
+Hamburger 318,"Grill beef patty, add toppings and sandwich in bun.",135,Middle East,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.6,5,21,50
+Falafel 417,Blend chickpeas and fry into balls.,71,Mexico,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.5,4,109,101
+Pancake 43,"Mix batter, cook on griddle, and serve with syrup.",38,India,Soup,"Flour, Eggs, Milk, Syrup",3.4,4,32,71
+Hamburger 722,"Grill beef patty, add toppings and sandwich in bun.",89,Turkey,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.1,5,22,50
+Hamburger 547,"Grill beef patty, add toppings and sandwich in bun.",113,Spain,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,24,50
+Paella 912,"Cook rice with saffron, seafood, and vegetables.",115,Spain,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.0,4,58,90
+Croissant 476,"Prepare layered dough with butter, shape, and bake.",76,Spain,Soup,"Flour, Butter, Milk, Yeast",3.6,4,26,63
+Croissant 517,"Prepare layered dough with butter, shape, and bake.",117,Japan,Dessert,"Flour, Butter, Milk, Yeast",4.7,4,68,91
+Taco 767,"Fill tortilla with protein, veggies, and sauce.",41,China,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.2,5,59,149
+Falafel 747,Blend chickpeas and fry into balls.,86,Mexico,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.5,4,60,130
+Curry 501,Simmer protein or vegetables in spiced sauce.,42,Spain,Soup,"Chicken, Coconut Milk, Spices, Onions",3.5,4,44,76
+Curry 261,Simmer protein or vegetables in spiced sauce.,38,China,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.3,4,115,170
+Pancake 800,"Mix batter, cook on griddle, and serve with syrup.",131,Japan,Dessert,"Flour, Eggs, Milk, Syrup",3.7,4,74,193
+Croissant 811,"Prepare layered dough with butter, shape, and bake.",25,Thailand,Appetizer,"Flour, Butter, Milk, Yeast",4.0,4,29,114
+Croissant 130,"Prepare layered dough with butter, shape, and bake.",40,USA,Soup,"Flour, Butter, Milk, Yeast",3.3,4,46,49
+Croissant 433,"Prepare layered dough with butter, shape, and bake.",106,France,Appetizer,"Flour, Butter, Milk, Yeast",4.5,4,43,103
+Taco 996,"Fill tortilla with protein, veggies, and sauce.",77,China,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,21,49
+Paella 650,"Cook rice with saffron, seafood, and vegetables.",155,USA,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,37,78
+Taco 52,"Fill tortilla with protein, veggies, and sauce.",162,France,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.2,5,95,199
+Baklava 848,Layer phyllo dough with nuts and syrup.,78,USA,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.8,4,58,43
+Croissant 847,"Prepare layered dough with butter, shape, and bake.",114,India,Snack,"Flour, Butter, Milk, Yeast",3.5,4,46,92
+Hamburger 720,"Grill beef patty, add toppings and sandwich in bun.",16,Mexico,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,35,50
+Curry 986,Simmer protein or vegetables in spiced sauce.,174,Spain,Snack,"Chicken, Coconut Milk, Spices, Onions",3.9,4,44,78
+Paella 896,"Cook rice with saffron, seafood, and vegetables.",159,China,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",3.1,4,53,52
+Baklava 850,Layer phyllo dough with nuts and syrup.,11,China,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",3.4,4,24,74
+Baklava 773,Layer phyllo dough with nuts and syrup.,179,Italy,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.2,4,37,82
+Hamburger 116,"Grill beef patty, add toppings and sandwich in bun.",12,Turkey,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.4,5,68,50
+Taco 439,"Fill tortilla with protein, veggies, and sauce.",47,Spain,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.1,5,36,106
+Falafel 327,Blend chickpeas and fry into balls.,87,Mexico,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.1,4,78,57
+Baklava 145,Layer phyllo dough with nuts and syrup.,162,Italy,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.1,4,50,92
+Taco 616,"Fill tortilla with protein, veggies, and sauce.",52,Italy,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.4,5,72,46
+Croissant 472,"Prepare layered dough with butter, shape, and bake.",165,Spain,Main Course,"Flour, Butter, Milk, Yeast",4.5,4,39,121
+Baklava 454,Layer phyllo dough with nuts and syrup.,66,Japan,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",3.2,4,57,104
+Falafel 693,Blend chickpeas and fry into balls.,37,Japan,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.1,4,54,191
+Hamburger 991,"Grill beef patty, add toppings and sandwich in bun.",171,Thailand,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,92,50
+Hamburger 451,"Grill beef patty, add toppings and sandwich in bun.",50,Spain,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.7,5,31,50
+Hamburger 689,"Grill beef patty, add toppings and sandwich in bun.",111,Mexico,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.4,5,49,50
+Baklava 618,Layer phyllo dough with nuts and syrup.,74,USA,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",3.6,4,81,144
+Falafel 128,Blend chickpeas and fry into balls.,23,Middle East,Appetizer,"Chickpeas, Garlic, Parsley, Spices",4.6,4,65,150
+Pancake 870,"Mix batter, cook on griddle, and serve with syrup.",72,Japan,Breakfast,"Flour, Eggs, Milk, Syrup",4.0,4,55,56
+Paella 860,"Cook rice with saffron, seafood, and vegetables.",92,India,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.7,4,39,74
+Hamburger 570,"Grill beef patty, add toppings and sandwich in bun.",49,India,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,24,50
+Hamburger 54,"Grill beef patty, add toppings and sandwich in bun.",142,Italy,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.1,5,53,50
+Croissant 991,"Prepare layered dough with butter, shape, and bake.",36,Middle East,Main Course,"Flour, Butter, Milk, Yeast",3.9,4,44,78
+Hamburger 676,"Grill beef patty, add toppings and sandwich in bun.",100,Turkey,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,26,50
+Pancake 709,"Mix batter, cook on griddle, and serve with syrup.",120,Turkey,Soup,"Flour, Eggs, Milk, Syrup",3.6,4,25,46
+Curry 78,Simmer protein or vegetables in spiced sauce.,82,Japan,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.3,4,80,105
+Curry 42,Simmer protein or vegetables in spiced sauce.,136,Japan,Snack,"Chicken, Coconut Milk, Spices, Onions",5.0,4,31,96
+Falafel 186,Blend chickpeas and fry into balls.,116,Spain,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.9,4,27,71
+Baklava 737,Layer phyllo dough with nuts and syrup.,150,Middle East,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.2,4,31,74
+Curry 780,Simmer protein or vegetables in spiced sauce.,162,France,Soup,"Chicken, Coconut Milk, Spices, Onions",4.4,4,23,58
+Pancake 463,"Mix batter, cook on griddle, and serve with syrup.",54,Mexico,Breakfast,"Flour, Eggs, Milk, Syrup",3.1,4,29,61
+Pancake 998,"Mix batter, cook on griddle, and serve with syrup.",157,India,Dessert,"Flour, Eggs, Milk, Syrup",4.2,4,100,92
+Taco 203,"Fill tortilla with protein, veggies, and sauce.",140,Mexico,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.2,5,33,59
+Taco 331,"Fill tortilla with protein, veggies, and sauce.",62,France,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.0,5,31,50
+Croissant 239,"Prepare layered dough with butter, shape, and bake.",141,Turkey,Snack,"Flour, Butter, Milk, Yeast",3.4,4,33,70
+Pancake 671,"Mix batter, cook on griddle, and serve with syrup.",111,France,Main Course,"Flour, Eggs, Milk, Syrup",4.5,4,53,83
+Falafel 921,Blend chickpeas and fry into balls.,127,Middle East,Soup,"Chickpeas, Garlic, Parsley, Spices",4.9,4,27,60
+Curry 372,Simmer protein or vegetables in spiced sauce.,72,Spain,Appetizer,"Chicken, Coconut Milk, Spices, Onions",3.4,4,53,137
+Baklava 274,Layer phyllo dough with nuts and syrup.,157,Turkey,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",5.0,4,35,95
+Paella 997,"Cook rice with saffron, seafood, and vegetables.",73,Italy,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,99,181
+Pancake 823,"Mix batter, cook on griddle, and serve with syrup.",101,India,Soup,"Flour, Eggs, Milk, Syrup",3.1,4,34,78
+Pancake 493,"Mix batter, cook on griddle, and serve with syrup.",177,China,Soup,"Flour, Eggs, Milk, Syrup",4.5,4,50,51
+Paella 549,"Cook rice with saffron, seafood, and vegetables.",104,Turkey,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,119,124
+Falafel 138,Blend chickpeas and fry into balls.,45,France,Soup,"Chickpeas, Garlic, Parsley, Spices",4.7,4,34,50
+Pancake 842,"Mix batter, cook on griddle, and serve with syrup.",50,Italy,Breakfast,"Flour, Eggs, Milk, Syrup",4.5,4,26,69
+Curry 648,Simmer protein or vegetables in spiced sauce.,78,Middle East,Snack,"Chicken, Coconut Milk, Spices, Onions",4.8,4,38,68
+Paella 401,"Cook rice with saffron, seafood, and vegetables.",130,Spain,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,32,45
+Paella 267,"Cook rice with saffron, seafood, and vegetables.",59,China,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,21,53
+Paella 182,"Cook rice with saffron, seafood, and vegetables.",10,Mexico,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.6,4,24,47
+Hamburger 617,"Grill beef patty, add toppings and sandwich in bun.",53,Thailand,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.5,5,42,50
+Paella 260,"Cook rice with saffron, seafood, and vegetables.",39,France,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.4,4,93,113
+Pancake 176,"Mix batter, cook on griddle, and serve with syrup.",49,China,Main Course,"Flour, Eggs, Milk, Syrup",3.7,4,49,90
+Paella 482,"Cook rice with saffron, seafood, and vegetables.",114,India,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,52,69
+Baklava 742,Layer phyllo dough with nuts and syrup.,61,Mexico,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",4.2,4,22,66
+Pancake 334,"Mix batter, cook on griddle, and serve with syrup.",163,China,Soup,"Flour, Eggs, Milk, Syrup",3.7,4,30,54
+Hamburger 712,"Grill beef patty, add toppings and sandwich in bun.",35,India,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,57,50
+Croissant 407,"Prepare layered dough with butter, shape, and bake.",50,Middle East,Main Course,"Flour, Butter, Milk, Yeast",3.2,4,39,80
+Curry 718,Simmer protein or vegetables in spiced sauce.,143,Spain,Breakfast,"Chicken, Coconut Milk, Spices, Onions",3.8,4,43,64
+Paella 890,"Cook rice with saffron, seafood, and vegetables.",18,Thailand,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,115,163
+Taco 56,"Fill tortilla with protein, veggies, and sauce.",117,China,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,79,150
+Pancake 313,"Mix batter, cook on griddle, and serve with syrup.",145,France,Appetizer,"Flour, Eggs, Milk, Syrup",3.9,4,37,46
+Croissant 998,"Prepare layered dough with butter, shape, and bake.",64,Mexico,Dessert,"Flour, Butter, Milk, Yeast",4.7,4,120,193
+Pancake 624,"Mix batter, cook on griddle, and serve with syrup.",75,Spain,Appetizer,"Flour, Eggs, Milk, Syrup",3.5,4,28,141
+Croissant 893,"Prepare layered dough with butter, shape, and bake.",22,USA,Main Course,"Flour, Butter, Milk, Yeast",4.9,4,47,85
+Hamburger 658,"Grill beef patty, add toppings and sandwich in bun.",71,France,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.8,5,52,50
+Falafel 617,Blend chickpeas and fry into balls.,67,Italy,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.6,4,74,181
+Falafel 983,Blend chickpeas and fry into balls.,81,Italy,Appetizer,"Chickpeas, Garlic, Parsley, Spices",5.0,4,30,44
+Hamburger 152,"Grill beef patty, add toppings and sandwich in bun.",58,Japan,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.2,5,49,50
+Pasta 658,Cook pasta with sauce and mix ingredients.,122,Italy,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.7,4,30,75
+Falafel 753,Blend chickpeas and fry into balls.,162,China,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.4,4,20,93
+Pancake 369,"Mix batter, cook on griddle, and serve with syrup.",45,Japan,Dessert,"Flour, Eggs, Milk, Syrup",4.7,4,91,192
+Pancake 617,"Mix batter, cook on griddle, and serve with syrup.",111,France,Soup,"Flour, Eggs, Milk, Syrup",3.3,4,38,59
+Baklava 108,Layer phyllo dough with nuts and syrup.,75,India,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",4.2,4,51,199
+Falafel 701,Blend chickpeas and fry into balls.,70,China,Snack,"Chickpeas, Garlic, Parsley, Spices",3.8,4,70,100
+Baklava 769,Layer phyllo dough with nuts and syrup.,46,Middle East,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",4.5,4,32,55
+Pasta 717,Cook pasta with sauce and mix ingredients.,31,Turkey,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.5,4,100,173
+Curry 844,Simmer protein or vegetables in spiced sauce.,151,China,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.0,4,80,197
+Falafel 62,Blend chickpeas and fry into balls.,89,Middle East,Breakfast,"Chickpeas, Garlic, Parsley, Spices",5.0,4,47,64
+Curry 579,Simmer protein or vegetables in spiced sauce.,32,Spain,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.9,4,54,59
+Hamburger 796,"Grill beef patty, add toppings and sandwich in bun.",178,India,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.8,5,21,50
+Curry 574,Simmer protein or vegetables in spiced sauce.,151,Middle East,Main Course,"Chicken, Coconut Milk, Spices, Onions",4.7,4,61,135
+Taco 157,"Fill tortilla with protein, veggies, and sauce.",175,Italy,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.5,5,55,89
+Croissant 925,"Prepare layered dough with butter, shape, and bake.",99,Japan,Snack,"Flour, Butter, Milk, Yeast",4.6,4,58,52
+Hamburger 220,"Grill beef patty, add toppings and sandwich in bun.",32,China,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.2,5,77,50
+Baklava 385,Layer phyllo dough with nuts and syrup.,109,USA,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.5,4,68,65
+Pasta 32,Cook pasta with sauce and mix ingredients.,149,Mexico,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,39,53
+Pasta 921,Cook pasta with sauce and mix ingredients.,81,Middle East,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.8,4,75,101
+Falafel 388,Blend chickpeas and fry into balls.,150,India,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.1,4,68,53
+Croissant 158,"Prepare layered dough with butter, shape, and bake.",114,Japan,Soup,"Flour, Butter, Milk, Yeast",3.9,4,37,76
+Croissant 709,"Prepare layered dough with butter, shape, and bake.",109,USA,Appetizer,"Flour, Butter, Milk, Yeast",4.2,4,39,134
+Paella 758,"Cook rice with saffron, seafood, and vegetables.",97,Turkey,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.9,4,54,73
+Taco 145,"Fill tortilla with protein, veggies, and sauce.",36,Mexico,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.3,5,43,76
+Falafel 261,Blend chickpeas and fry into balls.,148,USA,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.0,4,38,93
+Pasta 168,Cook pasta with sauce and mix ingredients.,18,Middle East,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.4,4,47,50
+Hamburger 930,"Grill beef patty, add toppings and sandwich in bun.",46,Thailand,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.9,5,98,50
+Hamburger 409,"Grill beef patty, add toppings and sandwich in bun.",135,Thailand,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,71,50
+Hamburger 231,"Grill beef patty, add toppings and sandwich in bun.",38,Thailand,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,57,50
+Pasta 383,Cook pasta with sauce and mix ingredients.,88,Thailand,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.7,4,54,100
+Croissant 850,"Prepare layered dough with butter, shape, and bake.",88,Japan,Dessert,"Flour, Butter, Milk, Yeast",4.0,4,113,99
+Hamburger 871,"Grill beef patty, add toppings and sandwich in bun.",136,Spain,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.0,5,77,50
+Curry 781,Simmer protein or vegetables in spiced sauce.,158,France,Soup,"Chicken, Coconut Milk, Spices, Onions",4.0,4,36,61
+Pasta 454,Cook pasta with sauce and mix ingredients.,134,Italy,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,47,75
+Falafel 993,Blend chickpeas and fry into balls.,143,Italy,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.4,4,52,127
+Falafel 931,Blend chickpeas and fry into balls.,42,Japan,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.5,4,27,91
+Paella 804,"Cook rice with saffron, seafood, and vegetables.",52,Mexico,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,35,86
+Baklava 292,Layer phyllo dough with nuts and syrup.,125,Japan,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",4.8,4,44,59
+Curry 770,Simmer protein or vegetables in spiced sauce.,65,China,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.7,4,55,77
+Falafel 641,Blend chickpeas and fry into balls.,56,USA,Snack,"Chickpeas, Garlic, Parsley, Spices",3.6,4,67,91
+Pasta 916,Cook pasta with sauce and mix ingredients.,67,Middle East,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.9,4,42,72
+Paella 535,"Cook rice with saffron, seafood, and vegetables.",26,Mexico,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.4,4,65,88
+Croissant 410,"Prepare layered dough with butter, shape, and bake.",88,China,Soup,"Flour, Butter, Milk, Yeast",4.7,4,21,58
+Hamburger 873,"Grill beef patty, add toppings and sandwich in bun.",112,Middle East,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,41,50
+Pancake 184,"Mix batter, cook on griddle, and serve with syrup.",97,Mexico,Main Course,"Flour, Eggs, Milk, Syrup",3.7,4,53,54
+Pasta 413,Cook pasta with sauce and mix ingredients.,147,China,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",5.0,4,40,81
+Croissant 483,"Prepare layered dough with butter, shape, and bake.",92,India,Breakfast,"Flour, Butter, Milk, Yeast",3.5,4,54,74
+Pancake 138,"Mix batter, cook on griddle, and serve with syrup.",107,Mexico,Soup,"Flour, Eggs, Milk, Syrup",4.2,4,28,77
+Taco 907,"Fill tortilla with protein, veggies, and sauce.",25,Middle East,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.4,5,43,46
+Hamburger 541,"Grill beef patty, add toppings and sandwich in bun.",103,Italy,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.9,5,27,50
+Falafel 415,Blend chickpeas and fry into balls.,91,Turkey,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.5,4,21,127
+Hamburger 711,"Grill beef patty, add toppings and sandwich in bun.",34,Italy,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.9,5,36,50
+Pancake 286,"Mix batter, cook on griddle, and serve with syrup.",99,Spain,Breakfast,"Flour, Eggs, Milk, Syrup",4.7,4,33,73
+Pasta 665,Cook pasta with sauce and mix ingredients.,31,USA,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.3,4,45,98
+Pancake 251,"Mix batter, cook on griddle, and serve with syrup.",97,Mexico,Soup,"Flour, Eggs, Milk, Syrup",3.4,4,37,44
+Taco 76,"Fill tortilla with protein, veggies, and sauce.",36,Mexico,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,32,88
+Pasta 850,Cook pasta with sauce and mix ingredients.,67,Mexico,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.8,4,53,105
+Baklava 543,Layer phyllo dough with nuts and syrup.,113,France,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",4.6,4,54,79
+Falafel 195,Blend chickpeas and fry into balls.,54,Turkey,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.1,4,27,59
+Curry 395,Simmer protein or vegetables in spiced sauce.,180,India,Snack,"Chicken, Coconut Milk, Spices, Onions",5.0,4,42,96
+Baklava 297,Layer phyllo dough with nuts and syrup.,152,India,Breakfast,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,34,80
+Falafel 102,Blend chickpeas and fry into balls.,61,Turkey,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.7,4,49,66
+Pancake 175,"Mix batter, cook on griddle, and serve with syrup.",110,France,Dessert,"Flour, Eggs, Milk, Syrup",3.1,4,82,178
+Paella 943,"Cook rice with saffron, seafood, and vegetables.",164,China,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.6,4,50,60
+Falafel 673,Blend chickpeas and fry into balls.,148,Turkey,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.2,4,56,102
+Hamburger 414,"Grill beef patty, add toppings and sandwich in bun.",172,USA,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.1,5,105,50
+Baklava 555,Layer phyllo dough with nuts and syrup.,173,USA,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",3.2,4,45,79
+Paella 453,"Cook rice with saffron, seafood, and vegetables.",136,Japan,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,53,87
+Curry 492,Simmer protein or vegetables in spiced sauce.,74,Mexico,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.9,4,98,163
+Falafel 721,Blend chickpeas and fry into balls.,15,Japan,Snack,"Chickpeas, Garlic, Parsley, Spices",3.6,4,34,81
+Pasta 279,Cook pasta with sauce and mix ingredients.,111,Italy,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.8,4,30,67
+Taco 641,"Fill tortilla with protein, veggies, and sauce.",117,Japan,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.7,5,79,158
+Taco 949,"Fill tortilla with protein, veggies, and sauce.",135,USA,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.5,5,21,71
+Falafel 606,Blend chickpeas and fry into balls.,143,India,Snack,"Chickpeas, Garlic, Parsley, Spices",3.5,4,30,66
+Pancake 270,"Mix batter, cook on griddle, and serve with syrup.",101,USA,Soup,"Flour, Eggs, Milk, Syrup",3.5,4,28,61
+Curry 85,Simmer protein or vegetables in spiced sauce.,132,Thailand,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.9,4,52,88
+Pasta 182,Cook pasta with sauce and mix ingredients.,126,Japan,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.6,4,37,91
+Baklava 324,Layer phyllo dough with nuts and syrup.,84,Thailand,Breakfast,"Phyllo Dough, Honey, Nuts, Cinnamon",4.8,4,53,84
+Paella 469,"Cook rice with saffron, seafood, and vegetables.",128,Thailand,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.2,4,32,49
+Pancake 294,"Mix batter, cook on griddle, and serve with syrup.",138,USA,Dessert,"Flour, Eggs, Milk, Syrup",3.8,4,105,171
+Pancake 250,"Mix batter, cook on griddle, and serve with syrup.",167,France,Appetizer,"Flour, Eggs, Milk, Syrup",3.2,4,25,113
+Falafel 290,Blend chickpeas and fry into balls.,85,Thailand,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.1,4,30,108
+Paella 146,"Cook rice with saffron, seafood, and vegetables.",115,Mexico,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.6,4,47,76
+Hamburger 698,"Grill beef patty, add toppings and sandwich in bun.",124,Mexico,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.9,5,62,50
+Taco 104,"Fill tortilla with protein, veggies, and sauce.",70,Turkey,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.2,5,32,102
+Hamburger 22,"Grill beef patty, add toppings and sandwich in bun.",78,Middle East,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.2,5,42,50
+Taco 989,"Fill tortilla with protein, veggies, and sauce.",133,Middle East,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.6,5,36,73
+Falafel 254,Blend chickpeas and fry into balls.,39,USA,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.2,4,103,121
+Paella 518,"Cook rice with saffron, seafood, and vegetables.",55,France,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",3.0,4,27,117
+Baklava 803,Layer phyllo dough with nuts and syrup.,31,China,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.7,4,31,134
+Croissant 440,"Prepare layered dough with butter, shape, and bake.",137,Spain,Main Course,"Flour, Butter, Milk, Yeast",3.7,4,63,113
+Croissant 496,"Prepare layered dough with butter, shape, and bake.",166,China,Breakfast,"Flour, Butter, Milk, Yeast",3.7,4,50,79
+Falafel 720,Blend chickpeas and fry into balls.,23,Middle East,Soup,"Chickpeas, Garlic, Parsley, Spices",3.7,4,49,77
+Curry 278,Simmer protein or vegetables in spiced sauce.,153,Spain,Appetizer,"Chicken, Coconut Milk, Spices, Onions",3.2,4,45,84
+Taco 258,"Fill tortilla with protein, veggies, and sauce.",86,France,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.6,5,70,93
+Baklava 970,Layer phyllo dough with nuts and syrup.,90,Japan,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",3.8,4,47,77
+Baklava 194,Layer phyllo dough with nuts and syrup.,142,Mexico,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.8,4,47,73
+Curry 586,Simmer protein or vegetables in spiced sauce.,166,China,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.7,4,97,173
+Curry 317,Simmer protein or vegetables in spiced sauce.,52,USA,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.3,4,118,106
+Hamburger 48,"Grill beef patty, add toppings and sandwich in bun.",137,Thailand,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.2,5,105,50
+Baklava 948,Layer phyllo dough with nuts and syrup.,67,Middle East,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",3.5,4,41,123
+Baklava 773,Layer phyllo dough with nuts and syrup.,98,India,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.8,4,80,68
+Baklava 28,Layer phyllo dough with nuts and syrup.,77,Thailand,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",4.9,4,35,40
+Pasta 486,Cook pasta with sauce and mix ingredients.,119,Spain,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.3,4,60,103
+Taco 536,"Fill tortilla with protein, veggies, and sauce.",101,Japan,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,52,113
+Falafel 55,Blend chickpeas and fry into balls.,70,China,Main Course,"Chickpeas, Garlic, Parsley, Spices",4.9,4,75,48
+Baklava 632,Layer phyllo dough with nuts and syrup.,132,Turkey,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",4.7,4,85,94
+Falafel 477,Blend chickpeas and fry into balls.,136,USA,Main Course,"Chickpeas, Garlic, Parsley, Spices",4.8,4,36,67
+Falafel 862,Blend chickpeas and fry into balls.,97,Spain,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.0,4,26,60
+Paella 11,"Cook rice with saffron, seafood, and vegetables.",33,Turkey,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,37,52
+Curry 302,Simmer protein or vegetables in spiced sauce.,99,Italy,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.3,4,52,81
+Paella 188,"Cook rice with saffron, seafood, and vegetables.",94,China,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",4.7,4,40,115
+Hamburger 828,"Grill beef patty, add toppings and sandwich in bun.",143,USA,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,45,50
+Falafel 138,Blend chickpeas and fry into balls.,82,France,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.4,4,103,155
+Hamburger 122,"Grill beef patty, add toppings and sandwich in bun.",39,India,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.6,5,23,50
+Curry 313,Simmer protein or vegetables in spiced sauce.,67,France,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.3,4,104,186
+Taco 843,"Fill tortilla with protein, veggies, and sauce.",106,France,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.2,5,22,73
+Croissant 771,"Prepare layered dough with butter, shape, and bake.",162,Mexico,Dessert,"Flour, Butter, Milk, Yeast",3.6,4,75,131
+Curry 741,Simmer protein or vegetables in spiced sauce.,170,Spain,Main Course,"Chicken, Coconut Milk, Spices, Onions",3.9,4,45,143
+Curry 616,Simmer protein or vegetables in spiced sauce.,90,USA,Appetizer,"Chicken, Coconut Milk, Spices, Onions",3.2,4,78,135
+Croissant 581,"Prepare layered dough with butter, shape, and bake.",172,Middle East,Breakfast,"Flour, Butter, Milk, Yeast",4.7,4,31,65
+Taco 678,"Fill tortilla with protein, veggies, and sauce.",135,Mexico,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.0,5,35,42
+Hamburger 564,"Grill beef patty, add toppings and sandwich in bun.",57,Middle East,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.6,5,79,50
+Taco 797,"Fill tortilla with protein, veggies, and sauce.",77,USA,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.6,5,42,53
+Curry 277,Simmer protein or vegetables in spiced sauce.,42,France,Appetizer,"Chicken, Coconut Milk, Spices, Onions",3.1,4,34,50
+Pasta 217,Cook pasta with sauce and mix ingredients.,19,Japan,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.9,4,27,43
+Curry 571,Simmer protein or vegetables in spiced sauce.,24,Italy,Breakfast,"Chicken, Coconut Milk, Spices, Onions",3.5,4,25,99
+Croissant 424,"Prepare layered dough with butter, shape, and bake.",95,Japan,Main Course,"Flour, Butter, Milk, Yeast",3.3,4,72,149
+Pasta 833,Cook pasta with sauce and mix ingredients.,169,Middle East,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.6,4,40,118
+Croissant 737,"Prepare layered dough with butter, shape, and bake.",115,Middle East,Soup,"Flour, Butter, Milk, Yeast",5.0,4,50,79
+Falafel 888,Blend chickpeas and fry into balls.,83,Mexico,Snack,"Chickpeas, Garlic, Parsley, Spices",4.5,4,59,97
+Curry 983,Simmer protein or vegetables in spiced sauce.,16,Mexico,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.1,4,50,81
+Baklava 965,Layer phyllo dough with nuts and syrup.,107,China,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.1,4,56,72
+Paella 984,"Cook rice with saffron, seafood, and vegetables.",91,Mexico,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",3.7,4,77,130
+Taco 320,"Fill tortilla with protein, veggies, and sauce.",18,USA,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.7,5,48,40
+Pancake 577,"Mix batter, cook on griddle, and serve with syrup.",12,Spain,Appetizer,"Flour, Eggs, Milk, Syrup",3.4,4,56,79
+Pasta 110,Cook pasta with sauce and mix ingredients.,14,India,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.3,4,42,103
+Pancake 10,"Mix batter, cook on griddle, and serve with syrup.",154,India,Soup,"Flour, Eggs, Milk, Syrup",3.5,4,30,76
+Paella 518,"Cook rice with saffron, seafood, and vegetables.",108,Italy,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.9,4,42,49
+Pasta 382,Cook pasta with sauce and mix ingredients.,104,Middle East,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,36,50
+Falafel 104,Blend chickpeas and fry into balls.,46,China,Snack,"Chickpeas, Garlic, Parsley, Spices",4.5,4,55,57
+Curry 679,Simmer protein or vegetables in spiced sauce.,159,Spain,Soup,"Chicken, Coconut Milk, Spices, Onions",4.0,4,44,75
+Croissant 639,"Prepare layered dough with butter, shape, and bake.",91,Thailand,Appetizer,"Flour, Butter, Milk, Yeast",4.3,4,40,87
+Curry 731,Simmer protein or vegetables in spiced sauce.,119,China,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.2,4,78,157
+Baklava 997,Layer phyllo dough with nuts and syrup.,152,India,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",4.0,4,49,75
+Pasta 662,Cook pasta with sauce and mix ingredients.,66,Thailand,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.7,4,29,104
+Croissant 467,"Prepare layered dough with butter, shape, and bake.",98,France,Breakfast,"Flour, Butter, Milk, Yeast",4.2,4,48,86
+Curry 625,Simmer protein or vegetables in spiced sauce.,40,Spain,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.3,4,115,127
+Hamburger 612,"Grill beef patty, add toppings and sandwich in bun.",154,USA,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.4,5,41,50
+Taco 453,"Fill tortilla with protein, veggies, and sauce.",18,Italy,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.2,5,38,73
+Hamburger 741,"Grill beef patty, add toppings and sandwich in bun.",112,Mexico,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,54,50
+Baklava 819,Layer phyllo dough with nuts and syrup.,80,India,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,62,97
+Taco 338,"Fill tortilla with protein, veggies, and sauce.",117,USA,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.1,5,59,50
+Pasta 686,Cook pasta with sauce and mix ingredients.,41,Thailand,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.4,4,44,126
+Croissant 509,"Prepare layered dough with butter, shape, and bake.",104,Japan,Appetizer,"Flour, Butter, Milk, Yeast",4.9,4,79,93
+Hamburger 757,"Grill beef patty, add toppings and sandwich in bun.",109,Turkey,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,53,50
+Falafel 120,Blend chickpeas and fry into balls.,43,France,Dessert,"Chickpeas, Garlic, Parsley, Spices",4.1,4,50,121
+Croissant 219,"Prepare layered dough with butter, shape, and bake.",77,Thailand,Main Course,"Flour, Butter, Milk, Yeast",3.2,4,48,46
+Pancake 610,"Mix batter, cook on griddle, and serve with syrup.",111,France,Soup,"Flour, Eggs, Milk, Syrup",4.5,4,27,54
+Curry 943,Simmer protein or vegetables in spiced sauce.,83,China,Breakfast,"Chicken, Coconut Milk, Spices, Onions",3.2,4,34,67
+Paella 15,"Cook rice with saffron, seafood, and vegetables.",48,Mexico,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",3.7,4,42,54
+Curry 1,Simmer protein or vegetables in spiced sauce.,120,Italy,Soup,"Chicken, Coconut Milk, Spices, Onions",4.5,4,32,47
+Croissant 393,"Prepare layered dough with butter, shape, and bake.",16,Turkey,Soup,"Flour, Butter, Milk, Yeast",3.5,4,43,44
+Baklava 221,Layer phyllo dough with nuts and syrup.,174,Japan,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.1,4,21,122
+Pancake 958,"Mix batter, cook on griddle, and serve with syrup.",86,Spain,Snack,"Flour, Eggs, Milk, Syrup",3.9,4,34,98
+Pasta 965,Cook pasta with sauce and mix ingredients.,177,Mexico,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.1,4,22,58
+Taco 323,"Fill tortilla with protein, veggies, and sauce.",132,Mexico,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.9,5,72,127
+Croissant 697,"Prepare layered dough with butter, shape, and bake.",63,USA,Soup,"Flour, Butter, Milk, Yeast",3.3,4,31,57
+Falafel 830,Blend chickpeas and fry into balls.,60,India,Appetizer,"Chickpeas, Garlic, Parsley, Spices",4.4,4,73,78
+Taco 585,"Fill tortilla with protein, veggies, and sauce.",78,China,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.7,5,24,49
+Pancake 846,"Mix batter, cook on griddle, and serve with syrup.",95,France,Main Course,"Flour, Eggs, Milk, Syrup",3.1,4,54,73
+Paella 247,"Cook rice with saffron, seafood, and vegetables.",177,France,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.4,4,66,53
+Taco 720,"Fill tortilla with protein, veggies, and sauce.",60,China,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.1,5,40,80
+Taco 346,"Fill tortilla with protein, veggies, and sauce.",49,Thailand,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.3,5,67,68
+Pasta 381,Cook pasta with sauce and mix ingredients.,51,China,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,77,142
+Pasta 531,Cook pasta with sauce and mix ingredients.,180,Turkey,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.2,4,119,191
+Falafel 267,Blend chickpeas and fry into balls.,122,Mexico,Soup,"Chickpeas, Garlic, Parsley, Spices",4.6,4,41,68
+Croissant 463,"Prepare layered dough with butter, shape, and bake.",168,France,Dessert,"Flour, Butter, Milk, Yeast",4.6,4,73,141
+Taco 187,"Fill tortilla with protein, veggies, and sauce.",107,Italy,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.4,5,70,97
+Pancake 475,"Mix batter, cook on griddle, and serve with syrup.",104,India,Main Course,"Flour, Eggs, Milk, Syrup",4.4,4,75,41
+Pancake 236,"Mix batter, cook on griddle, and serve with syrup.",131,China,Breakfast,"Flour, Eggs, Milk, Syrup",3.2,4,50,92
+Pancake 55,"Mix batter, cook on griddle, and serve with syrup.",42,Mexico,Breakfast,"Flour, Eggs, Milk, Syrup",4.9,4,34,64
+Croissant 596,"Prepare layered dough with butter, shape, and bake.",178,Middle East,Appetizer,"Flour, Butter, Milk, Yeast",4.3,4,41,87
+Croissant 732,"Prepare layered dough with butter, shape, and bake.",106,France,Soup,"Flour, Butter, Milk, Yeast",3.3,4,41,42
+Falafel 568,Blend chickpeas and fry into balls.,141,Italy,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.0,4,67,83
+Taco 948,"Fill tortilla with protein, veggies, and sauce.",146,China,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.5,5,58,137
+Croissant 482,"Prepare layered dough with butter, shape, and bake.",70,Spain,Breakfast,"Flour, Butter, Milk, Yeast",3.4,4,26,73
+Hamburger 322,"Grill beef patty, add toppings and sandwich in bun.",106,China,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.8,5,51,50
+Falafel 941,Blend chickpeas and fry into balls.,110,India,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.4,4,55,128
+Pasta 621,Cook pasta with sauce and mix ingredients.,119,China,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.1,4,62,55
+Falafel 288,Blend chickpeas and fry into balls.,23,Thailand,Soup,"Chickpeas, Garlic, Parsley, Spices",4.0,4,37,73
+Croissant 392,"Prepare layered dough with butter, shape, and bake.",84,Italy,Main Course,"Flour, Butter, Milk, Yeast",4.1,4,71,115
+Hamburger 375,"Grill beef patty, add toppings and sandwich in bun.",26,Mexico,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.3,5,30,50
+Croissant 979,"Prepare layered dough with butter, shape, and bake.",132,Mexico,Breakfast,"Flour, Butter, Milk, Yeast",3.6,4,29,65
+Taco 824,"Fill tortilla with protein, veggies, and sauce.",117,Japan,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.7,5,69,120
+Baklava 770,Layer phyllo dough with nuts and syrup.,38,China,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",3.5,4,70,191
+Baklava 691,Layer phyllo dough with nuts and syrup.,44,Japan,Dessert,"Phyllo Dough, Honey, Nuts, Cinnamon",3.8,4,99,180
+Pancake 149,"Mix batter, cook on griddle, and serve with syrup.",148,France,Soup,"Flour, Eggs, Milk, Syrup",3.6,4,39,64
+Taco 257,"Fill tortilla with protein, veggies, and sauce.",119,Thailand,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.3,5,23,49
+Falafel 814,Blend chickpeas and fry into balls.,83,Turkey,Dessert,"Chickpeas, Garlic, Parsley, Spices",4.9,4,93,98
+Baklava 840,Layer phyllo dough with nuts and syrup.,29,France,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.0,4,49,148
+Taco 996,"Fill tortilla with protein, veggies, and sauce.",84,USA,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.2,5,52,85
+Paella 432,"Cook rice with saffron, seafood, and vegetables.",85,USA,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,48,55
+Croissant 275,"Prepare layered dough with butter, shape, and bake.",56,Thailand,Appetizer,"Flour, Butter, Milk, Yeast",4.1,4,56,144
+Paella 664,"Cook rice with saffron, seafood, and vegetables.",128,Spain,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.3,4,31,60
+Curry 945,Simmer protein or vegetables in spiced sauce.,68,Spain,Soup,"Chicken, Coconut Milk, Spices, Onions",3.5,4,43,72
+Hamburger 929,"Grill beef patty, add toppings and sandwich in bun.",167,Turkey,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,36,50
+Hamburger 510,"Grill beef patty, add toppings and sandwich in bun.",172,Mexico,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.1,5,68,50
+Paella 27,"Cook rice with saffron, seafood, and vegetables.",132,Japan,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,46,86
+Falafel 303,Blend chickpeas and fry into balls.,33,Thailand,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.7,4,55,127
+Falafel 410,Blend chickpeas and fry into balls.,165,Thailand,Dessert,"Chickpeas, Garlic, Parsley, Spices",4.6,4,80,161
+Baklava 841,Layer phyllo dough with nuts and syrup.,31,Spain,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.5,4,80,144
+Pancake 103,"Mix batter, cook on griddle, and serve with syrup.",50,Italy,Main Course,"Flour, Eggs, Milk, Syrup",4.8,4,30,124
+Curry 427,Simmer protein or vegetables in spiced sauce.,167,Mexico,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.2,4,50,198
+Taco 313,"Fill tortilla with protein, veggies, and sauce.",180,France,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.9,5,38,57
+Pancake 772,"Mix batter, cook on griddle, and serve with syrup.",141,Mexico,Soup,"Flour, Eggs, Milk, Syrup",4.6,4,40,61
+Paella 578,"Cook rice with saffron, seafood, and vegetables.",16,Middle East,Dessert,"Rice, Saffron, Seafood, Bell Peppers",3.2,4,94,123
+Pasta 275,Cook pasta with sauce and mix ingredients.,123,Italy,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.9,4,41,77
+Baklava 424,Layer phyllo dough with nuts and syrup.,23,Japan,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.0,4,36,115
+Pancake 735,"Mix batter, cook on griddle, and serve with syrup.",85,Italy,Appetizer,"Flour, Eggs, Milk, Syrup",4.6,4,38,52
+Pasta 877,Cook pasta with sauce and mix ingredients.,145,Turkey,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.0,4,30,54
+Croissant 976,"Prepare layered dough with butter, shape, and bake.",25,China,Soup,"Flour, Butter, Milk, Yeast",4.6,4,42,45
+Falafel 421,Blend chickpeas and fry into balls.,163,Japan,Soup,"Chickpeas, Garlic, Parsley, Spices",4.6,4,36,52
+Falafel 613,Blend chickpeas and fry into balls.,61,India,Soup,"Chickpeas, Garlic, Parsley, Spices",4.2,4,38,48
+Taco 433,"Fill tortilla with protein, veggies, and sauce.",122,Turkey,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.8,5,46,58
+Pancake 503,"Mix batter, cook on griddle, and serve with syrup.",91,Thailand,Breakfast,"Flour, Eggs, Milk, Syrup",4.0,4,53,98
+Paella 974,"Cook rice with saffron, seafood, and vegetables.",144,Spain,Main Course,"Rice, Saffron, Seafood, Bell Peppers",3.1,4,55,47
+Pancake 388,"Mix batter, cook on griddle, and serve with syrup.",15,Middle East,Dessert,"Flour, Eggs, Milk, Syrup",3.9,4,112,123
+Pasta 924,Cook pasta with sauce and mix ingredients.,35,Thailand,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.5,4,35,40
+Hamburger 742,"Grill beef patty, add toppings and sandwich in bun.",68,China,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.5,5,43,50
+Falafel 624,Blend chickpeas and fry into balls.,68,India,Soup,"Chickpeas, Garlic, Parsley, Spices",3.7,4,47,56
+Curry 245,Simmer protein or vegetables in spiced sauce.,11,France,Soup,"Chicken, Coconut Milk, Spices, Onions",3.8,4,34,42
+Pancake 506,"Mix batter, cook on griddle, and serve with syrup.",13,Japan,Snack,"Flour, Eggs, Milk, Syrup",3.5,4,39,67
+Falafel 450,Blend chickpeas and fry into balls.,81,Spain,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.1,4,59,92
+Hamburger 962,"Grill beef patty, add toppings and sandwich in bun.",116,France,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.1,5,36,50
+Croissant 811,"Prepare layered dough with butter, shape, and bake.",64,France,Main Course,"Flour, Butter, Milk, Yeast",4.7,4,76,129
+Pancake 232,"Mix batter, cook on griddle, and serve with syrup.",30,India,Snack,"Flour, Eggs, Milk, Syrup",4.6,4,34,53
+Paella 34,"Cook rice with saffron, seafood, and vegetables.",48,France,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.8,4,43,80
+Pancake 817,"Mix batter, cook on griddle, and serve with syrup.",16,France,Main Course,"Flour, Eggs, Milk, Syrup",3.8,4,80,134
+Baklava 446,Layer phyllo dough with nuts and syrup.,11,Spain,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,69,59
+Hamburger 126,"Grill beef patty, add toppings and sandwich in bun.",167,Italy,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.7,5,77,50
+Croissant 604,"Prepare layered dough with butter, shape, and bake.",154,Japan,Soup,"Flour, Butter, Milk, Yeast",3.4,4,48,50
+Pancake 375,"Mix batter, cook on griddle, and serve with syrup.",118,Middle East,Breakfast,"Flour, Eggs, Milk, Syrup",3.2,4,29,93
+Falafel 187,Blend chickpeas and fry into balls.,148,Italy,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.5,4,24,120
+Baklava 569,Layer phyllo dough with nuts and syrup.,113,Mexico,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",3.7,4,50,125
+Baklava 189,Layer phyllo dough with nuts and syrup.,82,France,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",3.5,4,45,97
+Paella 217,"Cook rice with saffron, seafood, and vegetables.",56,India,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,64,77
+Taco 284,"Fill tortilla with protein, veggies, and sauce.",13,Spain,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.0,5,78,66
+Paella 917,"Cook rice with saffron, seafood, and vegetables.",75,Turkey,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.0,4,50,52
+Baklava 643,Layer phyllo dough with nuts and syrup.,159,Thailand,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",4.2,4,45,72
+Croissant 692,"Prepare layered dough with butter, shape, and bake.",141,Middle East,Appetizer,"Flour, Butter, Milk, Yeast",3.3,4,42,46
+Taco 121,"Fill tortilla with protein, veggies, and sauce.",66,India,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.3,5,32,81
+Hamburger 284,"Grill beef patty, add toppings and sandwich in bun.",86,Japan,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,36,50
+Paella 791,"Cook rice with saffron, seafood, and vegetables.",81,Mexico,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.3,4,58,60
+Pasta 25,Cook pasta with sauce and mix ingredients.,103,Italy,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.3,4,22,56
+Falafel 216,Blend chickpeas and fry into balls.,39,China,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.9,4,81,186
+Pancake 780,"Mix batter, cook on griddle, and serve with syrup.",148,Japan,Appetizer,"Flour, Eggs, Milk, Syrup",3.4,4,63,130
+Croissant 886,"Prepare layered dough with butter, shape, and bake.",138,India,Soup,"Flour, Butter, Milk, Yeast",4.5,4,46,66
+Hamburger 760,"Grill beef patty, add toppings and sandwich in bun.",115,China,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,42,50
+Baklava 130,Layer phyllo dough with nuts and syrup.,42,Mexico,Breakfast,"Phyllo Dough, Honey, Nuts, Cinnamon",4.6,4,34,85
+Taco 164,"Fill tortilla with protein, veggies, and sauce.",119,France,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.3,5,29,72
+Pasta 142,Cook pasta with sauce and mix ingredients.,138,Middle East,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.6,4,63,47
+Hamburger 698,"Grill beef patty, add toppings and sandwich in bun.",131,Spain,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,110,50
+Taco 313,"Fill tortilla with protein, veggies, and sauce.",67,France,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.1,5,30,71
+Taco 437,"Fill tortilla with protein, veggies, and sauce.",44,India,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.9,5,37,123
+Curry 493,Simmer protein or vegetables in spiced sauce.,60,Italy,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.0,4,63,144
+Pancake 880,"Mix batter, cook on griddle, and serve with syrup.",100,USA,Appetizer,"Flour, Eggs, Milk, Syrup",4.7,4,74,47
+Falafel 177,Blend chickpeas and fry into balls.,90,Middle East,Soup,"Chickpeas, Garlic, Parsley, Spices",3.4,4,28,79
+Pancake 727,"Mix batter, cook on griddle, and serve with syrup.",110,Turkey,Appetizer,"Flour, Eggs, Milk, Syrup",4.0,4,40,88
+Taco 437,"Fill tortilla with protein, veggies, and sauce.",72,Thailand,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.9,5,59,87
+Hamburger 687,"Grill beef patty, add toppings and sandwich in bun.",29,Japan,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.3,5,69,50
+Pancake 570,"Mix batter, cook on griddle, and serve with syrup.",160,Turkey,Breakfast,"Flour, Eggs, Milk, Syrup",4.2,4,36,70
+Pasta 134,Cook pasta with sauce and mix ingredients.,31,USA,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.7,4,89,92
+Falafel 451,Blend chickpeas and fry into balls.,104,China,Appetizer,"Chickpeas, Garlic, Parsley, Spices",4.1,4,71,66
+Croissant 238,"Prepare layered dough with butter, shape, and bake.",80,Mexico,Appetizer,"Flour, Butter, Milk, Yeast",4.3,4,30,102
+Curry 907,Simmer protein or vegetables in spiced sauce.,40,Thailand,Soup,"Chicken, Coconut Milk, Spices, Onions",3.7,4,46,66
+Croissant 668,"Prepare layered dough with butter, shape, and bake.",133,Spain,Main Course,"Flour, Butter, Milk, Yeast",4.6,4,49,67
+Taco 854,"Fill tortilla with protein, veggies, and sauce.",163,China,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.9,5,78,79
+Baklava 127,Layer phyllo dough with nuts and syrup.,156,USA,Breakfast,"Phyllo Dough, Honey, Nuts, Cinnamon",4.3,4,51,92
+Hamburger 552,"Grill beef patty, add toppings and sandwich in bun.",84,USA,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,104,50
+Pasta 926,Cook pasta with sauce and mix ingredients.,86,Thailand,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.8,4,38,42
+Pancake 209,"Mix batter, cook on griddle, and serve with syrup.",122,Middle East,Breakfast,"Flour, Eggs, Milk, Syrup",4.5,4,49,97
+Croissant 89,"Prepare layered dough with butter, shape, and bake.",43,France,Appetizer,"Flour, Butter, Milk, Yeast",4.0,4,55,95
+Curry 394,Simmer protein or vegetables in spiced sauce.,108,Italy,Snack,"Chicken, Coconut Milk, Spices, Onions",3.1,4,52,93
+Pancake 414,"Mix batter, cook on griddle, and serve with syrup.",158,China,Appetizer,"Flour, Eggs, Milk, Syrup",4.4,4,26,134
+Curry 49,Simmer protein or vegetables in spiced sauce.,13,France,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.8,4,27,62
+Baklava 887,Layer phyllo dough with nuts and syrup.,112,Japan,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",3.6,4,33,51
+Falafel 282,Blend chickpeas and fry into balls.,135,China,Soup,"Chickpeas, Garlic, Parsley, Spices",3.7,4,21,60
+Taco 39,"Fill tortilla with protein, veggies, and sauce.",138,Thailand,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.5,5,82,80
+Taco 33,"Fill tortilla with protein, veggies, and sauce.",113,Japan,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.7,5,48,54
+Croissant 19,"Prepare layered dough with butter, shape, and bake.",113,Middle East,Dessert,"Flour, Butter, Milk, Yeast",3.5,4,89,176
+Taco 620,"Fill tortilla with protein, veggies, and sauce.",140,Mexico,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,44,86
+Pasta 613,Cook pasta with sauce and mix ingredients.,133,China,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.0,4,86,187
+Curry 897,Simmer protein or vegetables in spiced sauce.,76,Spain,Snack,"Chicken, Coconut Milk, Spices, Onions",3.6,4,68,74
+Falafel 888,Blend chickpeas and fry into balls.,88,China,Main Course,"Chickpeas, Garlic, Parsley, Spices",4.9,4,29,81
+Curry 944,Simmer protein or vegetables in spiced sauce.,168,Thailand,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.8,4,96,172
+Pancake 755,"Mix batter, cook on griddle, and serve with syrup.",53,China,Main Course,"Flour, Eggs, Milk, Syrup",4.5,4,42,116
+Curry 972,Simmer protein or vegetables in spiced sauce.,150,Italy,Breakfast,"Chicken, Coconut Milk, Spices, Onions",3.8,4,30,74
+Pancake 162,"Mix batter, cook on griddle, and serve with syrup.",40,Spain,Snack,"Flour, Eggs, Milk, Syrup",4.1,4,55,88
+Paella 171,"Cook rice with saffron, seafood, and vegetables.",76,Mexico,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,38,73
+Paella 61,"Cook rice with saffron, seafood, and vegetables.",65,India,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.0,4,34,57
+Croissant 168,"Prepare layered dough with butter, shape, and bake.",167,India,Main Course,"Flour, Butter, Milk, Yeast",3.9,4,76,50
+Pasta 472,Cook pasta with sauce and mix ingredients.,105,Italy,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,24,68
+Pancake 394,"Mix batter, cook on griddle, and serve with syrup.",166,Middle East,Main Course,"Flour, Eggs, Milk, Syrup",3.2,4,61,136
+Paella 394,"Cook rice with saffron, seafood, and vegetables.",125,Mexico,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.9,4,37,54
+Pancake 987,"Mix batter, cook on griddle, and serve with syrup.",105,Thailand,Soup,"Flour, Eggs, Milk, Syrup",3.5,4,24,74
+Pancake 762,"Mix batter, cook on griddle, and serve with syrup.",53,USA,Appetizer,"Flour, Eggs, Milk, Syrup",3.9,4,79,60
+Pasta 861,Cook pasta with sauce and mix ingredients.,156,Mexico,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.2,4,57,46
+Hamburger 712,"Grill beef patty, add toppings and sandwich in bun.",52,Middle East,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.5,5,59,50
+Pancake 445,"Mix batter, cook on griddle, and serve with syrup.",110,Middle East,Snack,"Flour, Eggs, Milk, Syrup",4.5,4,42,63
+Curry 332,Simmer protein or vegetables in spiced sauce.,118,Italy,Main Course,"Chicken, Coconut Milk, Spices, Onions",3.6,4,67,129
+Croissant 813,"Prepare layered dough with butter, shape, and bake.",64,Spain,Breakfast,"Flour, Butter, Milk, Yeast",3.5,4,28,50
+Pancake 204,"Mix batter, cook on griddle, and serve with syrup.",141,India,Appetizer,"Flour, Eggs, Milk, Syrup",4.7,4,45,112
+Pancake 905,"Mix batter, cook on griddle, and serve with syrup.",143,Turkey,Dessert,"Flour, Eggs, Milk, Syrup",3.9,4,97,174
+Croissant 261,"Prepare layered dough with butter, shape, and bake.",61,Middle East,Dessert,"Flour, Butter, Milk, Yeast",4.5,4,93,200
+Baklava 96,Layer phyllo dough with nuts and syrup.,55,USA,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.8,4,50,87
+Falafel 7,Blend chickpeas and fry into balls.,76,India,Soup,"Chickpeas, Garlic, Parsley, Spices",3.4,4,32,48
+Pasta 985,Cook pasta with sauce and mix ingredients.,133,Thailand,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.8,4,70,165
+Pasta 261,Cook pasta with sauce and mix ingredients.,142,Turkey,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.8,4,50,134
+Pasta 575,Cook pasta with sauce and mix ingredients.,87,Mexico,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",5.0,4,66,100
+Taco 959,"Fill tortilla with protein, veggies, and sauce.",170,Spain,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.3,5,91,123
+Croissant 856,"Prepare layered dough with butter, shape, and bake.",129,Mexico,Breakfast,"Flour, Butter, Milk, Yeast",3.3,4,59,82
+Curry 488,Simmer protein or vegetables in spiced sauce.,110,Italy,Soup,"Chicken, Coconut Milk, Spices, Onions",3.0,4,47,67
+Curry 880,Simmer protein or vegetables in spiced sauce.,142,Middle East,Main Course,"Chicken, Coconut Milk, Spices, Onions",4.7,4,31,120
+Hamburger 27,"Grill beef patty, add toppings and sandwich in bun.",65,Thailand,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.6,5,50,50
+Hamburger 457,"Grill beef patty, add toppings and sandwich in bun.",67,Mexico,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,34,50
+Paella 911,"Cook rice with saffron, seafood, and vegetables.",165,Thailand,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",3.5,4,52,41
+Pasta 407,Cook pasta with sauce and mix ingredients.,99,USA,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.3,4,70,59
+Croissant 575,"Prepare layered dough with butter, shape, and bake.",69,Thailand,Soup,"Flour, Butter, Milk, Yeast",4.3,4,21,74
+Taco 797,"Fill tortilla with protein, veggies, and sauce.",179,Thailand,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.7,5,92,93
+Curry 301,Simmer protein or vegetables in spiced sauce.,42,China,Soup,"Chicken, Coconut Milk, Spices, Onions",4.6,4,40,44
+Curry 827,Simmer protein or vegetables in spiced sauce.,103,Spain,Snack,"Chicken, Coconut Milk, Spices, Onions",3.1,4,37,53
+Falafel 827,Blend chickpeas and fry into balls.,37,Middle East,Snack,"Chickpeas, Garlic, Parsley, Spices",4.5,4,63,56
+Pasta 640,Cook pasta with sauce and mix ingredients.,71,Japan,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.2,4,27,127
+Curry 489,Simmer protein or vegetables in spiced sauce.,162,India,Snack,"Chicken, Coconut Milk, Spices, Onions",4.0,4,38,63
+Taco 756,"Fill tortilla with protein, veggies, and sauce.",113,Mexico,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.6,5,51,56
+Falafel 829,Blend chickpeas and fry into balls.,98,Japan,Appetizer,"Chickpeas, Garlic, Parsley, Spices",4.1,4,52,133
+Paella 3,"Cook rice with saffron, seafood, and vegetables.",20,Mexico,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.2,4,41,145
+Taco 592,"Fill tortilla with protein, veggies, and sauce.",107,Turkey,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,44,95
+Croissant 854,"Prepare layered dough with butter, shape, and bake.",128,China,Appetizer,"Flour, Butter, Milk, Yeast",4.3,4,36,62
+Croissant 64,"Prepare layered dough with butter, shape, and bake.",148,India,Snack,"Flour, Butter, Milk, Yeast",4.9,4,39,80
+Croissant 655,"Prepare layered dough with butter, shape, and bake.",85,France,Soup,"Flour, Butter, Milk, Yeast",3.4,4,24,79
+Pancake 670,"Mix batter, cook on griddle, and serve with syrup.",98,USA,Snack,"Flour, Eggs, Milk, Syrup",4.1,4,32,80
+Croissant 363,"Prepare layered dough with butter, shape, and bake.",165,France,Snack,"Flour, Butter, Milk, Yeast",3.4,4,42,58
+Paella 687,"Cook rice with saffron, seafood, and vegetables.",27,USA,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,32,50
+Croissant 567,"Prepare layered dough with butter, shape, and bake.",24,Thailand,Dessert,"Flour, Butter, Milk, Yeast",4.5,4,116,152
+Croissant 697,"Prepare layered dough with butter, shape, and bake.",35,Japan,Appetizer,"Flour, Butter, Milk, Yeast",4.3,4,50,131
+Curry 540,Simmer protein or vegetables in spiced sauce.,148,India,Soup,"Chicken, Coconut Milk, Spices, Onions",4.2,4,48,51
+Paella 893,"Cook rice with saffron, seafood, and vegetables.",122,China,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.7,4,66,78
+Baklava 762,Layer phyllo dough with nuts and syrup.,58,France,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.1,4,31,109
+Curry 730,Simmer protein or vegetables in spiced sauce.,16,France,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.2,4,96,166
+Curry 73,Simmer protein or vegetables in spiced sauce.,66,Spain,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.5,4,45,62
+Hamburger 120,"Grill beef patty, add toppings and sandwich in bun.",61,France,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,30,50
+Pancake 208,"Mix batter, cook on griddle, and serve with syrup.",16,Spain,Dessert,"Flour, Eggs, Milk, Syrup",3.9,4,86,131
+Croissant 427,"Prepare layered dough with butter, shape, and bake.",45,China,Appetizer,"Flour, Butter, Milk, Yeast",4.7,4,30,116
+Taco 330,"Fill tortilla with protein, veggies, and sauce.",83,Turkey,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,53,96
+Pancake 317,"Mix batter, cook on griddle, and serve with syrup.",64,France,Appetizer,"Flour, Eggs, Milk, Syrup",4.0,4,78,121
+Croissant 897,"Prepare layered dough with butter, shape, and bake.",34,Turkey,Breakfast,"Flour, Butter, Milk, Yeast",4.7,4,59,95
+Pasta 553,Cook pasta with sauce and mix ingredients.,15,Mexico,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.5,4,68,118
+Pancake 321,"Mix batter, cook on griddle, and serve with syrup.",103,Mexico,Snack,"Flour, Eggs, Milk, Syrup",4.4,4,48,65
+Paella 241,"Cook rice with saffron, seafood, and vegetables.",59,USA,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.4,4,78,183
+Croissant 271,"Prepare layered dough with butter, shape, and bake.",153,Japan,Breakfast,"Flour, Butter, Milk, Yeast",4.2,4,41,86
+Pasta 359,Cook pasta with sauce and mix ingredients.,135,USA,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.8,4,61,58
+Pasta 314,Cook pasta with sauce and mix ingredients.,20,China,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.4,4,47,67
+Falafel 189,Blend chickpeas and fry into balls.,53,Spain,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.2,4,44,56
+Paella 634,"Cook rice with saffron, seafood, and vegetables.",56,Middle East,Dessert,"Rice, Saffron, Seafood, Bell Peppers",3.8,4,84,111
+Taco 916,"Fill tortilla with protein, veggies, and sauce.",69,USA,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.6,5,33,134
+Pancake 409,"Mix batter, cook on griddle, and serve with syrup.",30,Mexico,Main Course,"Flour, Eggs, Milk, Syrup",3.1,4,45,123
+Falafel 598,Blend chickpeas and fry into balls.,127,China,Main Course,"Chickpeas, Garlic, Parsley, Spices",4.8,4,42,118
+Falafel 480,Blend chickpeas and fry into balls.,151,Spain,Main Course,"Chickpeas, Garlic, Parsley, Spices",5.0,4,55,86
+Curry 248,Simmer protein or vegetables in spiced sauce.,49,Turkey,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.9,4,76,139
+Pancake 423,"Mix batter, cook on griddle, and serve with syrup.",25,China,Dessert,"Flour, Eggs, Milk, Syrup",4.0,4,74,120
+Falafel 860,Blend chickpeas and fry into balls.,36,Spain,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.9,4,57,73
+Paella 501,"Cook rice with saffron, seafood, and vegetables.",57,China,Snack,"Rice, Saffron, Seafood, Bell Peppers",3.3,4,56,91
+Paella 930,"Cook rice with saffron, seafood, and vegetables.",140,Middle East,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",3.2,4,74,147
+Pancake 2,"Mix batter, cook on griddle, and serve with syrup.",114,Middle East,Appetizer,"Flour, Eggs, Milk, Syrup",4.4,4,42,67
+Pancake 920,"Mix batter, cook on griddle, and serve with syrup.",40,Mexico,Dessert,"Flour, Eggs, Milk, Syrup",3.1,4,110,179
+Curry 392,Simmer protein or vegetables in spiced sauce.,34,Italy,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.6,4,55,41
+Baklava 773,Layer phyllo dough with nuts and syrup.,106,Italy,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,31,121
+Paella 495,"Cook rice with saffron, seafood, and vegetables.",173,USA,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.9,4,72,144
+Paella 933,"Cook rice with saffron, seafood, and vegetables.",59,USA,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.6,4,48,59
+Paella 391,"Cook rice with saffron, seafood, and vegetables.",61,Middle East,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.0,4,31,96
+Hamburger 531,"Grill beef patty, add toppings and sandwich in bun.",139,Turkey,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,55,50
+Pasta 477,Cook pasta with sauce and mix ingredients.,129,Turkey,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.4,4,65,85
+Pancake 516,"Mix batter, cook on griddle, and serve with syrup.",51,Spain,Appetizer,"Flour, Eggs, Milk, Syrup",4.2,4,40,86
+Baklava 445,Layer phyllo dough with nuts and syrup.,66,Middle East,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.6,4,31,76
+Paella 643,"Cook rice with saffron, seafood, and vegetables.",99,Middle East,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.7,4,25,54
+Croissant 390,"Prepare layered dough with butter, shape, and bake.",129,Mexico,Soup,"Flour, Butter, Milk, Yeast",3.6,4,30,40
+Paella 403,"Cook rice with saffron, seafood, and vegetables.",172,Mexico,Appetizer,"Rice, Saffron, Seafood, Bell Peppers",4.8,4,66,83
+Pasta 324,Cook pasta with sauce and mix ingredients.,40,Mexico,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.9,4,45,100
+Pasta 314,Cook pasta with sauce and mix ingredients.,139,Japan,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.3,4,21,116
+Curry 986,Simmer protein or vegetables in spiced sauce.,119,Spain,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.7,4,96,126
+Paella 389,"Cook rice with saffron, seafood, and vegetables.",176,Italy,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.7,4,90,189
+Curry 82,Simmer protein or vegetables in spiced sauce.,137,Thailand,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.4,4,53,65
+Curry 105,Simmer protein or vegetables in spiced sauce.,154,France,Snack,"Chicken, Coconut Milk, Spices, Onions",4.6,4,42,86
+Paella 728,"Cook rice with saffron, seafood, and vegetables.",69,Thailand,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.2,4,30,50
+Curry 757,Simmer protein or vegetables in spiced sauce.,54,China,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.8,4,39,69
+Hamburger 196,"Grill beef patty, add toppings and sandwich in bun.",10,Spain,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,61,50
+Pancake 235,"Mix batter, cook on griddle, and serve with syrup.",100,Italy,Appetizer,"Flour, Eggs, Milk, Syrup",4.7,4,69,94
+Falafel 17,Blend chickpeas and fry into balls.,91,Middle East,Snack,"Chickpeas, Garlic, Parsley, Spices",3.8,4,39,84
+Falafel 341,Blend chickpeas and fry into balls.,23,Italy,Appetizer,"Chickpeas, Garlic, Parsley, Spices",3.0,4,59,120
+Pasta 714,Cook pasta with sauce and mix ingredients.,16,Turkey,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.6,4,39,72
+Falafel 868,Blend chickpeas and fry into balls.,43,Spain,Breakfast,"Chickpeas, Garlic, Parsley, Spices",4.6,4,26,78
+Hamburger 626,"Grill beef patty, add toppings and sandwich in bun.",35,France,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.2,5,51,50
+Croissant 535,"Prepare layered dough with butter, shape, and bake.",94,India,Dessert,"Flour, Butter, Milk, Yeast",4.3,4,51,83
+Taco 384,"Fill tortilla with protein, veggies, and sauce.",147,France,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.2,5,32,142
+Curry 457,Simmer protein or vegetables in spiced sauce.,111,Mexico,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.4,4,113,135
+Paella 729,"Cook rice with saffron, seafood, and vegetables.",30,China,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",3.7,4,41,51
+Paella 918,"Cook rice with saffron, seafood, and vegetables.",10,Spain,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",3.6,4,42,84
+Baklava 716,Layer phyllo dough with nuts and syrup.,41,USA,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,74,121
+Taco 689,"Fill tortilla with protein, veggies, and sauce.",97,Spain,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.4,5,55,88
+Baklava 375,Layer phyllo dough with nuts and syrup.,135,Middle East,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",4.3,4,20,66
+Falafel 146,Blend chickpeas and fry into balls.,31,USA,Snack,"Chickpeas, Garlic, Parsley, Spices",3.1,4,59,56
+Hamburger 411,"Grill beef patty, add toppings and sandwich in bun.",61,Japan,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.0,5,29,50
+Paella 639,"Cook rice with saffron, seafood, and vegetables.",72,China,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,53,84
+Paella 936,"Cook rice with saffron, seafood, and vegetables.",120,India,Dessert,"Rice, Saffron, Seafood, Bell Peppers",3.6,4,103,86
+Taco 714,"Fill tortilla with protein, veggies, and sauce.",77,Mexico,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.2,5,33,49
+Taco 95,"Fill tortilla with protein, veggies, and sauce.",73,China,Breakfast,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.5,5,42,59
+Pasta 92,Cook pasta with sauce and mix ingredients.,40,Middle East,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.9,4,101,115
+Pasta 3,Cook pasta with sauce and mix ingredients.,90,China,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.5,4,26,99
+Hamburger 120,"Grill beef patty, add toppings and sandwich in bun.",126,Thailand,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.4,5,57,50
+Curry 793,Simmer protein or vegetables in spiced sauce.,10,Thailand,Snack,"Chicken, Coconut Milk, Spices, Onions",3.1,4,33,75
+Curry 994,Simmer protein or vegetables in spiced sauce.,75,USA,Main Course,"Chicken, Coconut Milk, Spices, Onions",3.3,4,30,150
+Hamburger 125,"Grill beef patty, add toppings and sandwich in bun.",13,Thailand,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,59,50
+Pancake 913,"Mix batter, cook on griddle, and serve with syrup.",57,China,Soup,"Flour, Eggs, Milk, Syrup",4.0,4,22,72
+Pancake 925,"Mix batter, cook on griddle, and serve with syrup.",35,USA,Soup,"Flour, Eggs, Milk, Syrup",4.3,4,20,41
+Hamburger 113,"Grill beef patty, add toppings and sandwich in bun.",70,India,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.1,5,82,50
+Paella 418,"Cook rice with saffron, seafood, and vegetables.",170,Spain,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.4,4,30,40
+Pancake 455,"Mix batter, cook on griddle, and serve with syrup.",15,Japan,Appetizer,"Flour, Eggs, Milk, Syrup",4.1,4,68,83
+Pancake 931,"Mix batter, cook on griddle, and serve with syrup.",54,Italy,Dessert,"Flour, Eggs, Milk, Syrup",5.0,4,54,197
+Pasta 348,Cook pasta with sauce and mix ingredients.,128,Mexico,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.2,4,46,80
+Taco 585,"Fill tortilla with protein, veggies, and sauce.",90,China,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.9,5,53,145
+Pancake 25,"Mix batter, cook on griddle, and serve with syrup.",13,USA,Breakfast,"Flour, Eggs, Milk, Syrup",3.8,4,26,70
+Hamburger 25,"Grill beef patty, add toppings and sandwich in bun.",35,Turkey,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.4,5,47,50
+Taco 260,"Fill tortilla with protein, veggies, and sauce.",159,Japan,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.0,5,61,138
+Pasta 782,Cook pasta with sauce and mix ingredients.,29,Spain,Dessert,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.6,4,55,192
+Pasta 67,Cook pasta with sauce and mix ingredients.,124,Turkey,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.8,4,32,74
+Croissant 718,"Prepare layered dough with butter, shape, and bake.",171,Middle East,Main Course,"Flour, Butter, Milk, Yeast",4.1,4,33,91
+Hamburger 576,"Grill beef patty, add toppings and sandwich in bun.",97,Mexico,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.1,5,47,50
+Hamburger 74,"Grill beef patty, add toppings and sandwich in bun.",150,Mexico,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.3,5,67,50
+Pancake 711,"Mix batter, cook on griddle, and serve with syrup.",144,Japan,Dessert,"Flour, Eggs, Milk, Syrup",5.0,4,113,82
+Paella 655,"Cook rice with saffron, seafood, and vegetables.",102,India,Soup,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,43,55
+Hamburger 129,"Grill beef patty, add toppings and sandwich in bun.",12,Spain,Dessert,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.0,5,120,50
+Hamburger 737,"Grill beef patty, add toppings and sandwich in bun.",140,Italy,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,39,50
+Taco 376,"Fill tortilla with protein, veggies, and sauce.",17,India,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.3,5,29,58
+Pasta 157,Cook pasta with sauce and mix ingredients.,86,Thailand,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.0,4,68,56
+Curry 848,Simmer protein or vegetables in spiced sauce.,82,India,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.8,4,37,82
+Hamburger 730,"Grill beef patty, add toppings and sandwich in bun.",10,Turkey,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.7,5,70,50
+Paella 249,"Cook rice with saffron, seafood, and vegetables.",11,France,Breakfast,"Rice, Saffron, Seafood, Bell Peppers",4.3,4,55,59
+Paella 536,"Cook rice with saffron, seafood, and vegetables.",50,Japan,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.0,4,119,156
+Curry 279,Simmer protein or vegetables in spiced sauce.,135,India,Breakfast,"Chicken, Coconut Milk, Spices, Onions",4.9,4,51,90
+Paella 291,"Cook rice with saffron, seafood, and vegetables.",168,Italy,Main Course,"Rice, Saffron, Seafood, Bell Peppers",3.2,4,34,82
+Hamburger 562,"Grill beef patty, add toppings and sandwich in bun.",53,Thailand,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.6,5,45,50
+Taco 355,"Fill tortilla with protein, veggies, and sauce.",15,Italy,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,35,44
+Hamburger 20,"Grill beef patty, add toppings and sandwich in bun.",146,Japan,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.1,5,40,50
+Pancake 264,"Mix batter, cook on griddle, and serve with syrup.",120,Spain,Dessert,"Flour, Eggs, Milk, Syrup",4.5,4,97,112
+Taco 574,"Fill tortilla with protein, veggies, and sauce.",52,Mexico,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.1,5,68,89
+Curry 441,Simmer protein or vegetables in spiced sauce.,12,Japan,Soup,"Chicken, Coconut Milk, Spices, Onions",3.6,4,42,73
+Falafel 850,Blend chickpeas and fry into balls.,113,Turkey,Main Course,"Chickpeas, Garlic, Parsley, Spices",3.2,4,37,112
+Paella 355,"Cook rice with saffron, seafood, and vegetables.",54,Mexico,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.9,4,63,81
+Hamburger 616,"Grill beef patty, add toppings and sandwich in bun.",43,Turkey,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,77,50
+Curry 741,Simmer protein or vegetables in spiced sauce.,78,France,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.6,4,74,163
+Curry 955,Simmer protein or vegetables in spiced sauce.,96,Spain,Main Course,"Chicken, Coconut Milk, Spices, Onions",4.5,4,27,100
+Pasta 309,Cook pasta with sauce and mix ingredients.,134,USA,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.8,4,27,56
+Croissant 392,"Prepare layered dough with butter, shape, and bake.",69,China,Snack,"Flour, Butter, Milk, Yeast",3.5,4,54,95
+Pasta 545,Cook pasta with sauce and mix ingredients.,178,Middle East,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.1,4,31,84
+Paella 434,"Cook rice with saffron, seafood, and vegetables.",150,Spain,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.5,4,41,111
+Taco 285,"Fill tortilla with protein, veggies, and sauce.",171,Italy,Dessert,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.3,5,90,154
+Baklava 21,Layer phyllo dough with nuts and syrup.,72,Thailand,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",3.0,4,35,71
+Baklava 563,Layer phyllo dough with nuts and syrup.,90,Turkey,Main Course,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,68,75
+Baklava 203,Layer phyllo dough with nuts and syrup.,177,Middle East,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.4,4,69,138
+Curry 653,Simmer protein or vegetables in spiced sauce.,165,USA,Soup,"Chicken, Coconut Milk, Spices, Onions",3.3,4,29,49
+Pasta 788,Cook pasta with sauce and mix ingredients.,106,Italy,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.3,4,32,66
+Baklava 518,Layer phyllo dough with nuts and syrup.,171,Mexico,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.3,4,49,68
+Croissant 237,"Prepare layered dough with butter, shape, and bake.",48,France,Appetizer,"Flour, Butter, Milk, Yeast",4.5,4,55,124
+Pasta 139,Cook pasta with sauce and mix ingredients.,169,Mexico,Breakfast,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.4,4,35,95
+Curry 834,Simmer protein or vegetables in spiced sauce.,75,China,Main Course,"Chicken, Coconut Milk, Spices, Onions",3.5,4,74,128
+Baklava 427,Layer phyllo dough with nuts and syrup.,17,Mexico,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",3.7,4,67,147
+Hamburger 812,"Grill beef patty, add toppings and sandwich in bun.",113,Mexico,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.0,5,39,50
+Paella 213,"Cook rice with saffron, seafood, and vegetables.",75,Spain,Snack,"Rice, Saffron, Seafood, Bell Peppers",4.4,4,64,97
+Paella 908,"Cook rice with saffron, seafood, and vegetables.",38,France,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.6,4,80,48
+Hamburger 405,"Grill beef patty, add toppings and sandwich in bun.",164,Italy,Main Course,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.5,5,66,50
+Baklava 759,Layer phyllo dough with nuts and syrup.,173,Italy,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.8,4,71,109
+Baklava 569,Layer phyllo dough with nuts and syrup.,134,France,Appetizer,"Phyllo Dough, Honey, Nuts, Cinnamon",4.4,4,47,81
+Taco 654,"Fill tortilla with protein, veggies, and sauce.",92,Japan,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.1,5,58,41
+Curry 142,Simmer protein or vegetables in spiced sauce.,83,Mexico,Dessert,"Chicken, Coconut Milk, Spices, Onions",4.9,4,111,172
+Pasta 175,Cook pasta with sauce and mix ingredients.,73,China,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",4.9,4,60,134
+Taco 808,"Fill tortilla with protein, veggies, and sauce.",59,China,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.3,5,55,52
+Falafel 723,Blend chickpeas and fry into balls.,83,China,Main Course,"Chickpeas, Garlic, Parsley, Spices",5.0,4,21,93
+Pancake 520,"Mix batter, cook on griddle, and serve with syrup.",36,Middle East,Main Course,"Flour, Eggs, Milk, Syrup",4.3,4,27,59
+Taco 722,"Fill tortilla with protein, veggies, and sauce.",29,France,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.8,5,65,42
+Pasta 437,Cook pasta with sauce and mix ingredients.,147,Turkey,Main Course,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.2,4,27,71
+Pancake 444,"Mix batter, cook on griddle, and serve with syrup.",83,Turkey,Breakfast,"Flour, Eggs, Milk, Syrup",4.8,4,31,83
+Hamburger 951,"Grill beef patty, add toppings and sandwich in bun.",118,Mexico,Breakfast,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.3,5,58,50
+Falafel 670,Blend chickpeas and fry into balls.,79,Turkey,Soup,"Chickpeas, Garlic, Parsley, Spices",4.6,4,27,41
+Baklava 431,Layer phyllo dough with nuts and syrup.,172,Japan,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.1,4,31,92
+Croissant 718,"Prepare layered dough with butter, shape, and bake.",47,Spain,Breakfast,"Flour, Butter, Milk, Yeast",4.8,4,48,98
+Pasta 147,Cook pasta with sauce and mix ingredients.,100,Japan,Appetizer,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.9,4,55,52
+Taco 119,"Fill tortilla with protein, veggies, and sauce.",59,Turkey,Appetizer,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.8,5,47,128
+Paella 374,"Cook rice with saffron, seafood, and vegetables.",83,Turkey,Soup,"Rice, Saffron, Seafood, Bell Peppers",3.3,4,23,78
+Curry 417,Simmer protein or vegetables in spiced sauce.,162,India,Snack,"Chicken, Coconut Milk, Spices, Onions",5.0,4,63,89
+Falafel 55,Blend chickpeas and fry into balls.,177,Italy,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.4,4,26,62
+Croissant 839,"Prepare layered dough with butter, shape, and bake.",25,Japan,Dessert,"Flour, Butter, Milk, Yeast",4.2,4,117,190
+Baklava 284,Layer phyllo dough with nuts and syrup.,23,USA,Soup,"Phyllo Dough, Honey, Nuts, Cinnamon",3.3,4,42,74
+Croissant 375,"Prepare layered dough with butter, shape, and bake.",30,Italy,Snack,"Flour, Butter, Milk, Yeast",3.1,4,57,96
+Hamburger 373,"Grill beef patty, add toppings and sandwich in bun.",176,Thailand,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.6,5,61,50
+Falafel 267,Blend chickpeas and fry into balls.,52,Turkey,Dessert,"Chickpeas, Garlic, Parsley, Spices",3.4,4,70,186
+Paella 54,"Cook rice with saffron, seafood, and vegetables.",10,USA,Main Course,"Rice, Saffron, Seafood, Bell Peppers",4.2,4,54,92
+Pasta 257,Cook pasta with sauce and mix ingredients.,72,Spain,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.4,4,47,80
+Hamburger 124,"Grill beef patty, add toppings and sandwich in bun.",128,Middle East,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.2,5,73,50
+Croissant 107,"Prepare layered dough with butter, shape, and bake.",170,Mexico,Dessert,"Flour, Butter, Milk, Yeast",4.6,4,87,122
+Pasta 234,Cook pasta with sauce and mix ingredients.,148,USA,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.7,4,64,85
+Hamburger 551,"Grill beef patty, add toppings and sandwich in bun.",128,Middle East,Soup,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.6,5,45,50
+Curry 994,Simmer protein or vegetables in spiced sauce.,27,Japan,Dessert,"Chicken, Coconut Milk, Spices, Onions",3.2,4,57,151
+Paella 334,"Cook rice with saffron, seafood, and vegetables.",61,India,Dessert,"Rice, Saffron, Seafood, Bell Peppers",4.1,4,82,108
+Taco 387,"Fill tortilla with protein, veggies, and sauce.",147,Spain,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.8,5,61,55
+Pasta 928,Cook pasta with sauce and mix ingredients.,137,China,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.8,4,24,73
+Pancake 744,"Mix batter, cook on griddle, and serve with syrup.",143,Turkey,Main Course,"Flour, Eggs, Milk, Syrup",4.8,4,59,136
+Curry 227,Simmer protein or vegetables in spiced sauce.,48,Spain,Soup,"Chicken, Coconut Milk, Spices, Onions",3.1,4,49,54
+Taco 875,"Fill tortilla with protein, veggies, and sauce.",29,Japan,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.1,5,25,47
+Taco 2,"Fill tortilla with protein, veggies, and sauce.",141,Spain,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.0,5,22,81
+Taco 579,"Fill tortilla with protein, veggies, and sauce.",18,China,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.4,5,73,90
+Curry 803,Simmer protein or vegetables in spiced sauce.,168,Japan,Snack,"Chicken, Coconut Milk, Spices, Onions",3.5,4,41,82
+Paella 876,"Cook rice with saffron, seafood, and vegetables.",41,Japan,Dessert,"Rice, Saffron, Seafood, Bell Peppers",3.3,4,94,136
+Pasta 834,Cook pasta with sauce and mix ingredients.,137,Middle East,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.3,4,67,79
+Curry 976,Simmer protein or vegetables in spiced sauce.,173,Italy,Appetizer,"Chicken, Coconut Milk, Spices, Onions",4.1,4,34,91
+Taco 580,"Fill tortilla with protein, veggies, and sauce.",41,USA,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.6,5,32,58
+Taco 424,"Fill tortilla with protein, veggies, and sauce.",134,India,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.8,5,32,48
+Taco 985,"Fill tortilla with protein, veggies, and sauce.",91,France,Soup,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.7,5,31,55
+Croissant 406,"Prepare layered dough with butter, shape, and bake.",50,Turkey,Soup,"Flour, Butter, Milk, Yeast",3.9,4,48,68
+Pancake 910,"Mix batter, cook on griddle, and serve with syrup.",14,Thailand,Soup,"Flour, Eggs, Milk, Syrup",3.5,4,41,56
+Pasta 835,Cook pasta with sauce and mix ingredients.,126,China,Snack,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.9,4,50,95
+Taco 475,"Fill tortilla with protein, veggies, and sauce.",52,Mexico,Snack,"Tortilla, Beef, Cheese, Lettuce, Salsa",3.9,5,56,57
+Pasta 658,Cook pasta with sauce and mix ingredients.,161,Italy,Soup,"Pasta, Tomato Sauce, Cheese, Olive Oil",3.6,4,31,51
+Falafel 734,Blend chickpeas and fry into balls.,135,India,Dessert,"Chickpeas, Garlic, Parsley, Spices",4.1,4,79,132
+Falafel 217,Blend chickpeas and fry into balls.,46,Mexico,Breakfast,"Chickpeas, Garlic, Parsley, Spices",3.3,4,53,84
+Baklava 630,Layer phyllo dough with nuts and syrup.,119,Italy,Snack,"Phyllo Dough, Honey, Nuts, Cinnamon",3.1,4,69,69
+Hamburger 107,"Grill beef patty, add toppings and sandwich in bun.",27,Italy,Appetizer,"Beef Patty, Bun, Lettuce, Tomato, Cheese",4.5,5,24,50
+Hamburger 605,"Grill beef patty, add toppings and sandwich in bun.",93,India,Snack,"Beef Patty, Bun, Lettuce, Tomato, Cheese",3.9,5,32,50
+Taco 741,"Fill tortilla with protein, veggies, and sauce.",137,USA,Main Course,"Tortilla, Beef, Cheese, Lettuce, Salsa",4.9,5,74,57
+Pancake 635,"Mix batter, cook on griddle, and serve with syrup.",95,Mexico,Appetizer,"Flour, Eggs, Milk, Syrup",3.5,4,26,66
+Pancake 396,"Mix batter, cook on griddle, and serve with syrup.",31,Italy,Dessert,"Flour, Eggs, Milk, Syrup",4.1,4,77,177
+Croissant 304,"Prepare layered dough with butter, shape, and bake.",179,India,Snack,"Flour, Butter, Milk, Yeast",4.9,4,59,80
+Croissant 821,"Prepare layered dough with butter, shape, and bake.",21,Middle East,Breakfast,"Flour, Butter, Milk, Yeast",4.3,4,27,74
+Koshari,"Mix rice, pasta, lentils, and top with tomato sauce and fried onions.",60,Egypt,Main Course,"Rice, Lentils, Pasta, Chickpeas, Tomato Sauce, Onions",4.8,6,57,67
+Molokhia,Cook molokhia leaves with broth and garlic.,45,Egypt,Soup,"Molokhia Leaves, Garlic, Broth, Coriander",4.5,4,43,63
+Kibbeh,"Mix bulgur and ground meat, form into balls, and fry.",90,Syria,Snack,"Bulgur, Ground Meat, Spices, Onions",4.7,4,63,94
+Shish Barak,"Stuff dumplings with meat, cook in yogurt sauce.",120,Syria,Main Course,"Flour, Ground Meat, Yogurt, Garlic, Mint",4.6,5,78,44
+Kabsa,Cook rice with spiced meat and vegetables.,150,Saudi Arabia,Main Course,"Rice, Meat, Tomatoes, Spices",4.9,4,66,44
+Jareesh,Simmer crushed wheat with meat and spices.,120,Saudi Arabia,Main Course,"Crushed Wheat, Meat, Onions, Spices",4.5,4,35,66
+Hummus,"Blend chickpeas with tahini, garlic, and lemon juice.",15,Arab World,Snack,"Chickpeas, Tahini, Garlic, Lemon Juice",4.8,4,69,79
+Tabbouleh,"Mix bulgur with parsley, tomatoes, and lemon dressing.",30,Arab World,Salad,"Bulgur, Parsley, Tomatoes, Lemon Juice",4.6,4,23,70
+Koshari,"Cook rice, lentils, pasta, and chickpeas, layer them, and top with spiced tomato sauce and fried onions.",45,Egypt,Main Course,"Rice, Lentils, Pasta, Chickpeas, Tomato Sauce, Fried Onions",4.8,6,23,46
+Shawarma,"Marinate chicken or beef, grill, and wrap in pita bread with garlic sauce and vegetables.",60,Syria,Snack,"Chicken, Beef, Pita Bread, Garlic Sauce, Pickles, Vegetables",4.5,6,59,92
+Kabsa,"Cook rice with spiced chicken or lamb, add raisins and nuts for garnish.",90,Saudi Arabia,Main Course,"Rice, Chicken, Lamb, Spices, Raisins, Nuts",4.7,6,65,85
+Ful Medames,"Slow-cook fava beans and serve with olive oil, lemon juice, and spices.",30,Egypt,Breakfast,"Fava Beans, Olive Oil, Lemon Juice, Cumin, Garlic",4.6,5,38,77
+Maqluba,"Layer rice, vegetables, and meat, cook, and flip the pot for presentation.",75,Syria,Main Course,"Rice, Eggplant, Potatoes, Meat, Spices",4.9,5,64,80
+Sambusa,Fill pastry sheets with spiced meat or vegetables and fry until golden.,40,Saudi Arabia,Appetizer,"Pastry Sheets, Ground Beef, Vegetables, Spices",4.4,4,39,63
+Mansaf 126,Placeholder preparation instructions.,88,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,46,122
+Kunafa 541,Placeholder preparation instructions.,42,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,69,187
+Biryani 623,Placeholder preparation instructions.,90,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,29,53
+Molokhia 438,Placeholder preparation instructions.,76,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,46,146
+Biryani 146,Placeholder preparation instructions.,61,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,77,53
+Shakshuka 315,Placeholder preparation instructions.,23,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,29,52
+Kunafa 556,Placeholder preparation instructions.,86,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,89,195
+Baklava 577,Placeholder preparation instructions.,69,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,95,125
+Molokhia 144,Placeholder preparation instructions.,119,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,27,83
+Biryani 378,Placeholder preparation instructions.,38,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,38,65
+Tabbouleh 709,Placeholder preparation instructions.,75,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,63,85
+Hummus 595,Placeholder preparation instructions.,112,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,34,135
+Hummus 839,Placeholder preparation instructions.,68,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,57,116
+Molokhia 591,Placeholder preparation instructions.,56,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,32,149
+Hummus 341,Placeholder preparation instructions.,76,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,53,86
+Molokhia 103,Placeholder preparation instructions.,54,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,68,100
+Shakshuka 764,Placeholder preparation instructions.,66,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,26,71
+Baklava 779,Placeholder preparation instructions.,70,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,84,166
+Biryani 953,Placeholder preparation instructions.,24,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,35,65
+Harira 542,Placeholder preparation instructions.,52,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,46,58
+Hummus 696,Placeholder preparation instructions.,79,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,76,143
+Harira 385,Placeholder preparation instructions.,45,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,38,74
+Kunafa 580,Placeholder preparation instructions.,51,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,58,197
+Fattoush 565,Placeholder preparation instructions.,76,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,30,101
+Baklava 764,Placeholder preparation instructions.,83,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,117,124
+Baklava 522,Placeholder preparation instructions.,50,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,75,151
+Mansaf 197,Placeholder preparation instructions.,21,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,27,77
+Harira 953,Placeholder preparation instructions.,119,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,39,67
+Mansaf 113,Placeholder preparation instructions.,81,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,56,94
+Tabbouleh 372,Placeholder preparation instructions.,120,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,73,73
+Shakshuka 182,Placeholder preparation instructions.,81,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,30,76
+Molokhia 546,Placeholder preparation instructions.,56,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,72,74
+Shakshuka 885,Placeholder preparation instructions.,51,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,28,56
+Harira 635,Placeholder preparation instructions.,27,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,49,51
+Biryani 524,Placeholder preparation instructions.,109,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,35,124
+Kunafa 979,Placeholder preparation instructions.,81,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,78,98
+Fattoush 923,Placeholder preparation instructions.,77,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,35,144
+Harira 728,Placeholder preparation instructions.,82,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,21,76
+Tabbouleh 998,Placeholder preparation instructions.,105,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,65,75
+Hummus 546,Placeholder preparation instructions.,51,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,74,41
+Baklava 750,Placeholder preparation instructions.,33,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,98,168
+Tabbouleh 505,Placeholder preparation instructions.,96,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,33,145
+Mansaf 405,Placeholder preparation instructions.,119,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,65,60
+Fattoush 807,Placeholder preparation instructions.,96,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,62,145
+Kunafa 851,Placeholder preparation instructions.,26,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,110,147
+Fattoush 404,Placeholder preparation instructions.,22,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,61,80
+Hummus 918,Placeholder preparation instructions.,77,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,31,55
+Baklava 174,Placeholder preparation instructions.,107,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,114,157
+Shakshuka 901,Placeholder preparation instructions.,26,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,26,88
+Baklava 812,Placeholder preparation instructions.,46,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,58,80
+Shakshuka 846,Placeholder preparation instructions.,57,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,29,64
+Harira 676,Placeholder preparation instructions.,63,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,22,64
+Hummus 723,Placeholder preparation instructions.,79,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,52,40
+Tabbouleh 943,Placeholder preparation instructions.,83,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,65,136
+Baklava 140,Placeholder preparation instructions.,62,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,62,92
+Fattoush 342,Placeholder preparation instructions.,31,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,73,135
+Molokhia 290,Placeholder preparation instructions.,37,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,58,150
+Fattoush 376,Placeholder preparation instructions.,78,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,38,118
+Molokhia 808,Placeholder preparation instructions.,59,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,25,127
+Molokhia 542,Placeholder preparation instructions.,75,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,43,106
+Baklava 325,Placeholder preparation instructions.,54,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,77,135
+Fattoush 496,Placeholder preparation instructions.,55,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,49,103
+Hummus 477,Placeholder preparation instructions.,81,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,24,92
+Hummus 167,Placeholder preparation instructions.,73,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,38,111
+Hummus 425,Placeholder preparation instructions.,28,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,36,57
+Biryani 739,Placeholder preparation instructions.,80,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,64,124
+Fattoush 536,Placeholder preparation instructions.,30,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,70,52
+Molokhia 124,Placeholder preparation instructions.,90,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,32,134
+Biryani 729,Placeholder preparation instructions.,81,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,28,44
+Mansaf 101,Placeholder preparation instructions.,35,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,75,105
+Tabbouleh 157,Placeholder preparation instructions.,27,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,24,134
+Molokhia 704,Placeholder preparation instructions.,77,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,20,48
+Harira 233,Placeholder preparation instructions.,102,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,20,71
+Shakshuka 228,Placeholder preparation instructions.,58,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,58,55
+Fattoush 980,Placeholder preparation instructions.,63,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,22,72
+Tabbouleh 182,Placeholder preparation instructions.,52,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,47,84
+Shakshuka 363,Placeholder preparation instructions.,29,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,42,90
+Hummus 705,Placeholder preparation instructions.,47,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,73,148
+Baklava 810,Placeholder preparation instructions.,74,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,73,113
+Fattoush 699,Placeholder preparation instructions.,63,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,53,88
+Kunafa 709,Placeholder preparation instructions.,102,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,94,152
+Kunafa 409,Placeholder preparation instructions.,32,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,80,146
+Biryani 152,Placeholder preparation instructions.,25,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,70,110
+Kunafa 967,Placeholder preparation instructions.,112,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,93,141
+Baklava 458,Placeholder preparation instructions.,32,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,103,110
+Tabbouleh 461,Placeholder preparation instructions.,95,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,75,40
+Baklava 436,Placeholder preparation instructions.,105,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,110,127
+Shakshuka 113,Placeholder preparation instructions.,88,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,49,78
+Kunafa 175,Placeholder preparation instructions.,85,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,118,121
+Mansaf 681,Placeholder preparation instructions.,79,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,42,96
+Fattoush 243,Placeholder preparation instructions.,56,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,55,85
+Fattoush 110,Placeholder preparation instructions.,36,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,80,144
+Tabbouleh 576,Placeholder preparation instructions.,109,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,58,122
+Shakshuka 839,Placeholder preparation instructions.,105,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,32,97
+Molokhia 869,Placeholder preparation instructions.,49,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,38,53
+Hummus 734,Placeholder preparation instructions.,43,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,22,68
+Biryani 573,Placeholder preparation instructions.,47,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,58,141
+Shakshuka 183,Placeholder preparation instructions.,73,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,29,95
+Tabbouleh 753,Placeholder preparation instructions.,39,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,76,100
+Harira 741,Placeholder preparation instructions.,33,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,41,56
+Tabbouleh 961,Placeholder preparation instructions.,77,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,45,62
+Tabbouleh 475,Placeholder preparation instructions.,37,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,57,87
+Biryani 157,Placeholder preparation instructions.,35,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,57,110
+Fattoush 851,Placeholder preparation instructions.,60,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,41,102
+Tabbouleh 252,Placeholder preparation instructions.,103,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,39,93
+Tabbouleh 794,Placeholder preparation instructions.,72,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,50,95
+Molokhia 197,Placeholder preparation instructions.,112,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,38,51
+Biryani 887,Placeholder preparation instructions.,26,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,77,98
+Mansaf 699,Placeholder preparation instructions.,88,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,64,86
+Mansaf 346,Placeholder preparation instructions.,64,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,67,82
+Mansaf 263,Placeholder preparation instructions.,32,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,22,72
+Harira 383,Placeholder preparation instructions.,102,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,50,60
+Mansaf 753,Placeholder preparation instructions.,52,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,47,127
+Molokhia 902,Placeholder preparation instructions.,88,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,67,141
+Tabbouleh 189,Placeholder preparation instructions.,26,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,70,48
+Tabbouleh 111,Placeholder preparation instructions.,51,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,64,53
+Hummus 280,Placeholder preparation instructions.,21,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,25,104
+Hummus 972,Placeholder preparation instructions.,72,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,77,115
+Tabbouleh 749,Placeholder preparation instructions.,81,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,68,108
+Shakshuka 285,Placeholder preparation instructions.,71,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,54,81
+Tabbouleh 979,Placeholder preparation instructions.,39,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,74,106
+Fattoush 199,Placeholder preparation instructions.,25,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,21,103
+Biryani 263,Placeholder preparation instructions.,102,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,76,131
+Biryani 388,Placeholder preparation instructions.,62,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,43,125
+Shakshuka 671,Placeholder preparation instructions.,61,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,32,78
+Tabbouleh 595,Placeholder preparation instructions.,41,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,22,46
+Harira 813,Placeholder preparation instructions.,32,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,30,51
+Shakshuka 384,Placeholder preparation instructions.,33,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,29,67
+Kunafa 252,Placeholder preparation instructions.,54,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,77,138
+Mansaf 404,Placeholder preparation instructions.,29,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,50,125
+Molokhia 981,Placeholder preparation instructions.,37,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,65,141
+Baklava 890,Placeholder preparation instructions.,117,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,93,171
+Fattoush 592,Placeholder preparation instructions.,42,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,26,120
+Tabbouleh 154,Placeholder preparation instructions.,107,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,41,135
+Harira 203,Placeholder preparation instructions.,50,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,35,53
+Tabbouleh 838,Placeholder preparation instructions.,22,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,54,43
+Kunafa 425,Placeholder preparation instructions.,61,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,50,106
+Tabbouleh 572,Placeholder preparation instructions.,22,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,20,118
+Hummus 744,Placeholder preparation instructions.,51,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,56,54
+Molokhia 706,Placeholder preparation instructions.,117,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,74,76
+Hummus 426,Placeholder preparation instructions.,89,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,58,93
+Kunafa 489,Placeholder preparation instructions.,52,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,105,118
+Tabbouleh 741,Placeholder preparation instructions.,114,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,52,79
+Tabbouleh 476,Placeholder preparation instructions.,20,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,34,83
+Mansaf 822,Placeholder preparation instructions.,87,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,76,95
+Hummus 878,Placeholder preparation instructions.,110,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,21,134
+Kunafa 759,Placeholder preparation instructions.,99,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,95,135
+Shakshuka 147,Placeholder preparation instructions.,117,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,33,68
+Fattoush 939,Placeholder preparation instructions.,40,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,24,81
+Biryani 449,Placeholder preparation instructions.,114,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,79,99
+Harira 928,Placeholder preparation instructions.,73,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,39,76
+Tabbouleh 356,Placeholder preparation instructions.,101,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,42,134
+Harira 899,Placeholder preparation instructions.,107,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,23,52
+Tabbouleh 602,Placeholder preparation instructions.,80,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,74,50
+Molokhia 485,Placeholder preparation instructions.,26,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,73,103
+Kunafa 331,Placeholder preparation instructions.,48,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,60,187
+Kunafa 736,Placeholder preparation instructions.,110,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,77,174
+Fattoush 996,Placeholder preparation instructions.,120,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,70,124
+Kunafa 616,Placeholder preparation instructions.,33,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,60,105
+Molokhia 728,Placeholder preparation instructions.,119,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,78,94
+Tabbouleh 974,Placeholder preparation instructions.,79,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,25,143
+Baklava 591,Placeholder preparation instructions.,74,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,94,163
+Baklava 673,Placeholder preparation instructions.,112,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,90,93
+Fattoush 541,Placeholder preparation instructions.,100,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,80,99
+Mansaf 454,Placeholder preparation instructions.,33,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,21,95
+Molokhia 456,Placeholder preparation instructions.,52,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,35,122
+Baklava 900,Placeholder preparation instructions.,98,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,58,104
+Baklava 982,Placeholder preparation instructions.,21,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,93,152
+Tabbouleh 978,Placeholder preparation instructions.,21,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,46,82
+Baklava 908,Placeholder preparation instructions.,55,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,83,171
+Shakshuka 556,Placeholder preparation instructions.,20,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,30,98
+Harira 782,Placeholder preparation instructions.,108,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,31,51
+Tabbouleh 499,Placeholder preparation instructions.,94,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,72,125
+Biryani 666,Placeholder preparation instructions.,41,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,41,106
+Hummus 632,Placeholder preparation instructions.,40,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,26,41
+Baklava 687,Placeholder preparation instructions.,110,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,76,88
+Biryani 608,Placeholder preparation instructions.,109,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,80,62
+Shakshuka 637,Placeholder preparation instructions.,31,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,35,97
+Fattoush 727,Placeholder preparation instructions.,81,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,48,138
+Mansaf 892,Placeholder preparation instructions.,58,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,54,63
+Tabbouleh 745,Placeholder preparation instructions.,86,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,53,82
+Fattoush 919,Placeholder preparation instructions.,86,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,36,81
+Shakshuka 744,Placeholder preparation instructions.,115,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,26,54
+Biryani 365,Placeholder preparation instructions.,113,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,34,96
+Shakshuka 689,Placeholder preparation instructions.,62,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,46,88
+Hummus 197,Placeholder preparation instructions.,51,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,80,99
+Hummus 314,Placeholder preparation instructions.,88,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,62,139
+Shakshuka 553,Placeholder preparation instructions.,40,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,41,71
+Tabbouleh 785,Placeholder preparation instructions.,50,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,71,123
+Baklava 927,Placeholder preparation instructions.,114,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,82,173
+Shakshuka 193,Placeholder preparation instructions.,44,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,59,55
+Hummus 278,Placeholder preparation instructions.,120,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,45,92
+Mansaf 466,Placeholder preparation instructions.,93,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,49,85
+Tabbouleh 195,Placeholder preparation instructions.,69,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,49,138
+Hummus 993,Placeholder preparation instructions.,28,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,25,148
+Shakshuka 663,Placeholder preparation instructions.,34,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,26,66
+Tabbouleh 733,Placeholder preparation instructions.,117,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,74,88
+Fattoush 353,Placeholder preparation instructions.,68,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,72,89
+Tabbouleh 494,Placeholder preparation instructions.,45,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,38,57
+Baklava 190,Placeholder preparation instructions.,71,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,64,123
+Tabbouleh 784,Placeholder preparation instructions.,26,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,29,67
+Baklava 231,Placeholder preparation instructions.,20,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,99,199
+Kunafa 982,Placeholder preparation instructions.,39,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,114,190
+Harira 551,Placeholder preparation instructions.,28,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,46,73
+Harira 248,Placeholder preparation instructions.,93,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,37,48
+Hummus 797,Placeholder preparation instructions.,108,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,56,54
+Baklava 891,Placeholder preparation instructions.,53,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,110,84
+Hummus 606,Placeholder preparation instructions.,33,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,33,136
+Harira 386,Placeholder preparation instructions.,93,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,34,51
+Kunafa 660,Placeholder preparation instructions.,38,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,71,143
+Mansaf 387,Placeholder preparation instructions.,114,Jordan,Main Course,"Lamb, Yogurt, Rice, Almonds, Spices",4.9,5,72,97
+Kunafa 578,Placeholder preparation instructions.,52,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,62,98
+Fattoush 788,Placeholder preparation instructions.,90,Middle East,Salad,"Lettuce, Tomato, Cucumber, Pita Bread, Sumac",4.6,5,31,122
+Shakshuka 455,Placeholder preparation instructions.,81,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,27,52
+Shakshuka 261,Placeholder preparation instructions.,106,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,38,92
+Harira 188,Placeholder preparation instructions.,115,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,22,51
+Molokhia 350,Placeholder preparation instructions.,44,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,42,104
+Shakshuka 677,Placeholder preparation instructions.,92,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,29,78
+Biryani 903,Placeholder preparation instructions.,73,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,27,57
+Shakshuka 951,Placeholder preparation instructions.,61,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,39,82
+Biryani 939,Placeholder preparation instructions.,76,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,68,110
+Shakshuka 471,Placeholder preparation instructions.,22,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,54,73
+Molokhia 256,Placeholder preparation instructions.,60,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,71,140
+Biryani 190,Placeholder preparation instructions.,92,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,75,52
+Hummus 923,Placeholder preparation instructions.,73,Middle East,Appetizer,"Chickpeas, Tahini, Olive Oil, Lemon Juice, Garlic",4.7,5,48,144
+Biryani 244,Placeholder preparation instructions.,112,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,35,80
+Biryani 596,Placeholder preparation instructions.,57,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,51,134
+Baklava 516,Placeholder preparation instructions.,28,Turkey,Dessert,"Phyllo Dough, Nuts, Honey, Butter",4.8,4,70,162
+Shakshuka 710,Placeholder preparation instructions.,71,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,44,72
+Molokhia 760,Placeholder preparation instructions.,92,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,80,124
+Shakshuka 442,Placeholder preparation instructions.,77,Middle East,Breakfast,"Tomatoes, Eggs, Onion, Bell Pepper, Spices",4.5,5,53,95
+Harira 600,Placeholder preparation instructions.,86,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,46,57
+Molokhia 557,Placeholder preparation instructions.,61,Egypt,Main Course,"Molokhia Leaves, Garlic, Coriander, Chicken, Rice",4.7,5,23,91
+Tabbouleh 491,Placeholder preparation instructions.,118,Middle East,Salad,"Parsley, Bulgur, Tomato, Onion, Lemon Juice",4.6,5,68,90
+Biryani 955,Placeholder preparation instructions.,87,India,Main Course,"Rice, Chicken, Spices, Yogurt, Fried Onions",4.8,5,70,98
+Kunafa 822,Placeholder preparation instructions.,41,Middle East,Dessert,"Shredded Dough, Cheese, Sugar Syrup, Pistachios",4.8,4,107,88
+Harira 476,Placeholder preparation instructions.,57,Morocco,Soup,"Lentils, Tomatoes, Chickpeas, Spices",4.7,4,22,71
