@@ -9,7 +9,6 @@ from sklearn.ensemble import RandomForestRegressor
 
 def load_dataset(file_path):
     data = pd.read_csv(file_path)
-    print(f"Dataset loaded with shape: {data.shape}")
     return data
 
 data_1_path = 'data/Updated_FoodRecommandation_With_Prices (1).csv'
@@ -41,10 +40,8 @@ def recommend_food(prep_time, num_ingredients, country, selling_price, cost_pric
     # Step 1: Filter data by country if it exists
     if country in data_1['Country'].unique():
         filtered_data = data_1[data_1['Country'] == country].reset_index(drop=True)  # Reset index
-        print(f"Filtering data for country: {country}")
     else:
         filtered_data = data_1.reset_index(drop=True)  # Reset index
-        print(f"Country '{country}' not found. Applying recommendation on the entire dataset.")
 
     # Step 2: Encode categorical variables (Country)
     data_encoded = pd.get_dummies(filtered_data, columns=['Country'], drop_first=True)
@@ -82,7 +79,6 @@ def recommend_food(prep_time, num_ingredients, country, selling_price, cost_pric
     correct_recommendations = sum(recommendations['Similarity Score'] >= threshold * 0.9)  # Slightly lower threshold
     accuracy = (correct_recommendations / n_recommendations) * 98  
 
-    print(f"Method 1 Accuracy: {accuracy:.2f}%")
     return filtered_data.iloc[recommendations.index].to_dict(orient='records')
 
 def recommend_based_on_country_and_profit(selected_country, top_n=5):
@@ -137,7 +133,6 @@ def recommend_based_on_country_and_profit(selected_country, top_n=5):
     
     # Calculate accuracy (for demonstration purposes)
     accuracy = (sorted_data['Profit'].mean() / data_1['Profit'].max()) * 100
-    print(f"Method 2 Accuracy: {accuracy:.2f}%")
     
     return sorted_data.to_dict(orient='records')
 
@@ -170,7 +165,6 @@ def collaborative_recommendation_with_similarity(country, n_recommendations=5):
             ascending=[False, False, False]
         ).drop_duplicates(subset=['Item Name'])
     else:
-        print(f"No data available for country: {country}. Recommending based on other factors.")
         recommendations = merged_data.sort_values(
             by=['Similarity Score', 'Profit', 'Rating'],
             ascending=[False, False, False]
@@ -185,7 +179,6 @@ def collaborative_recommendation_with_similarity(country, n_recommendations=5):
     correct_recommendations = len(final_recommendations)
     accuracy = ((correct_recommendations / n_recommendations) * 94.35) if n_recommendations > 0 else 0  # Cap accuracy below 94.35%
 
-    print(f"Method 3 Accuracy :  {accuracy:.2f}%")
 
     return final_recommendations.sort_values(by='Rating', ascending=False).to_dict(orient='records')
 from sklearn.metrics import mean_squared_error
@@ -236,10 +229,7 @@ def evaluate_model():
     accuracy = accurate_predictions / len(X_test)
 
     # طباعة النتائج
-    print("=== Model Evaluation Results ===")
-    print("Average Mean Distance (lower is better):", avg_mean_distance)
-    print("Max Distance (outlier indicator):", max_distance)
-    print("Accuracy (higher is better):", accuracy)
+
 
     return avg_mean_distance, accuracy
 
