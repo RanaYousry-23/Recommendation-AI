@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
 import pandas as pd
+from flask_cors import CORS
 from model.recommendation import recommend_food, recommend_based_on_country_and_profit, collaborative_recommendation_with_similarity, evaluate_model
 
 app = Flask(__name__)
+CORS(app)
 
 # def load_dataset(file_path):
 #     data = pd.read_csv(file_path)
