@@ -79,7 +79,14 @@ def recommend_food(prep_time, num_ingredients, country, selling_price, cost_pric
     correct_recommendations = sum(recommendations['Similarity Score'] >= threshold * 0.9)  # Slightly lower threshold
     accuracy = (correct_recommendations / n_recommendations) * 98  
 
-    return filtered_data.iloc[recommendations.index].to_dict(orient='records')
+    def to_snake_case(column_name):
+        return column_name.lower().replace(' ', '_').replace('(', '').replace(')', '')
+
+    result_df = filtered_data.iloc[recommendations.index].copy()
+    result_df.columns = [to_snake_case(col) for col in result_df.columns]
+
+    return result_df.to_dict(orient='records')
+
 
 def recommend_based_on_country_and_profit(selected_country, top_n=5):
     # Calculate profit
@@ -134,7 +141,14 @@ def recommend_based_on_country_and_profit(selected_country, top_n=5):
     # Calculate accuracy (for demonstration purposes)
     accuracy = (sorted_data['Profit'].mean() / data_1['Profit'].max()) * 100
     
-    return sorted_data.to_dict(orient='records')
+    def to_snake_case(column_name):
+        return column_name.lower().replace(' ', '_').replace('(', '').replace(')', '')
+
+    result_df = sorted_data.copy()
+    result_df.columns = [to_snake_case(col) for col in result_df.columns]
+
+    return result_df.to_dict(orient='records')
+
 
 def collaborative_recommendation_with_similarity(country, n_recommendations=5):
     # Step 1: Standardize item names
@@ -180,7 +194,15 @@ def collaborative_recommendation_with_similarity(country, n_recommendations=5):
     accuracy = ((correct_recommendations / n_recommendations) * 94.35) if n_recommendations > 0 else 0  # Cap accuracy below 94.35%
 
 
-    return final_recommendations.sort_values(by='Rating', ascending=False).to_dict(orient='records')
+    def to_snake_case(column_name):
+        return column_name.lower().replace(' ', '_').replace('(', '').replace(')', '')
+    
+
+    result_df = final_recommendations.sort_values(by='Rating', ascending=False).copy()
+    result_df.columns = [to_snake_case(col) for col in result_df.columns]
+
+    return result_df.to_dict(orient='records')
+
 from sklearn.metrics import mean_squared_error
 
 from sklearn.metrics import mean_squared_error
