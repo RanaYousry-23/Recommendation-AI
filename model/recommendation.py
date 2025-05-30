@@ -2,10 +2,12 @@ import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
-import numpy as np
+from sklearn.metrics import accuracy_score
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.ensemble import RandomForestRegressor
+import numpy as np
+import csv
+import random
 
 def load_dataset(file_path):
     data = pd.read_csv(file_path)
@@ -203,6 +205,7 @@ def collaborative_recommendation_with_similarity(country, n_recommendations=5):
 
     return result_df.to_dict(orient='records')
 
+
 from sklearn.metrics import mean_squared_error
 
 from sklearn.metrics import mean_squared_error
@@ -255,6 +258,66 @@ def evaluate_model():
 
     return avg_mean_distance, accuracy
 
+def AddFoodItem(items):
+    data = []
+    for item in items['menueItems']:
+        print(item)
+        object = {
+                    "Name" : f'{item["name"]} {items["resturantId"]}',
+                    "PreparationMethod":'place Holder',
+                    "PreparationTime" : random.randint(10, 50),
+                    "country":'Egypt',
+                    "Category":'Food',
+                    "Ingredients":'place Holder',
+                    "Rate" : round(random.uniform(2.5, 5), 1),
+                    "IngredientCount" : 'place Holder',
+                    "cost" : item["cost"],
+                    "price" : item["price"]}
+        data.append(object)
+    with open('data/Updated_FoodRecommandation_With_Prices (1).csv', mode='a', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        for item in data:
+            writer.writerow([item['Name'],item['PreparationMethod'], item['PreparationTime'], item['country'], item['Category'], item['Ingredients'], item['Rate'], item['IngredientCount'], item['cost'],  item['price'] ])
+
+
+# data = {
+#     "resturantId": 800,
+#     "menueItems": [
+#         {
+#             "name": "Pizaa",
+#             "cost": 30,
+#             "price": 50
+#         },
+#         {
+#             "name": "Burger",
+#             "cost": 20,
+#             "price": 35
+#         }
+#     ]
+# }
+
+# AddFoodItem(data)
+
+
+# Order ID,Item Name,Category,Quantity,Selling Price (EGP),Total Price (EGP)
+# 59955,Pasta 139,Breakfast,4,95,380
+
+def AddOrderItem(orders):
+    data = []
+    for item in orders["orderItems"]:
+        orderItem ={
+            "orderId" : (orders["resturantId"] *10000 + item["quantity"] *item["item"]["price"])*item["quantity"], 
+            "Name" : f'{item["item"]["name"]} {orders["resturantId"]}',
+            "Category":'Food',
+            "quantity" : item["quantity"],
+            "price" : item["item"]["price"],
+            "totalPrice" : item["quantity"] *item["item"]["price"]}
+        data.append(orderItem)
+    with open('data/Large_Generated_Orders_Dataset (1) (1).csv', mode='a', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        for item in data:
+            writer.writerow([item['orderId'],item['Name'], item['Category'], item['quantity'], item['price'], item['totalPrice'] ])
+
 # item_to_recommend = "hamburger 119"
 # recommendations_food = recommend_food(30, 5, "Italy", 150, 100, n_recommendations=3)
 # recommendations_profit = recommend_based_on_country_and_profit("Italy", top_n=3)
@@ -301,3 +364,33 @@ def evaluate_model():
 
 
 # evaluate_model()
+
+
+# orders ={
+  
+#     "resturantId": 800,
+#     "tableNumber": 7,
+#     "dateOfCreation": "2025-05-13T14:22:31.151Z",
+#     "orderItems": [
+#       {
+#         "id": 1,
+#         "item": {
+#           "id": 101,
+#           "name": "Pizza",
+#           "cost": 30,
+#           "price": 50
+#         },
+#         "quantity": 2
+#       },
+#       {
+#         "id": 2,
+#         "item": {
+#           "id": 102,
+#           "name": "Burger",
+#           "cost": 20,
+#           "price": 35
+#         },
+#         "quantity": 1
+#       }
+#     ]
+#   }

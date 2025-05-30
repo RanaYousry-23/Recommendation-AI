@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import pandas as pd
 from flask_cors import CORS
-from model.recommendation import recommend_food, recommend_based_on_country_and_profit, collaborative_recommendation_with_similarity, evaluate_model
+from model.recommendation import recommend_food, recommend_based_on_country_and_profit, collaborative_recommendation_with_similarity, evaluate_model, AddFoodItem,AddOrderItem
 
 app = Flask(__name__)
 CORS(app)
@@ -136,5 +136,32 @@ def evaluate_model_endpoint():
         'accuracy': accuracy
     })
 
+
+@app.route('/add_order_items', methods=['POST'])
+def api_add_order_items():
+    orders = request.json
+    if not orders:
+        return jsonify({'error': 'Missing JSON body'}), 400
+    try:
+        AddOrderItem(orders)
+        return jsonify({'message': 'Order items added successfully'})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/add_food_items', methods=['POST'])
+def api_add_food_items():
+    items = request.json
+    if not items:
+        return jsonify({'error': 'Missing JSON body'}), 400
+    try:
+        AddFoodItem(items)
+        return jsonify({'message': 'Food items added successfully'})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+    
+
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+
